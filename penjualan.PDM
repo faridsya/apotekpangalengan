@@ -1,0 +1,2514 @@
+[Root]
+Most Recent Package=poslan3
+
+[Package|penjualan2|penjualan2]
+Icon1=penjualan.exe
+Title1=penjualan2
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|Penjualan2|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\My Documents\programku\Dah jadi\penjualan2
+
+[Package|Penjualan2|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Penjualan2|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Penjualan2|Files Found]
+
+[Package|Penjualan2|Files Released]
+
+[Package|Penjualan2|Missing Dependency Information]
+D:\My Documents\vb\ocx\button.ocx=
+C:\Program Files\Common Files\Data Dynamics\ActiveReports 2\actrpt2.dll=
+C:\WINDOWS\system32\vbskpro.ocx=
+D:\My Documents\vb\ocx\XPControls.ocx=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+D:\My Documents\vb\ocx\ACTSKIN4.OCX=
+C:\WINDOWS\system32\button.ocx=
+C:\WINDOWS\system32\actrpt2.dll=
+C:\WINDOWS\system32\XPControls.ocx=
+C:\WINDOWS\system32\ACTSKIN4.OCX=
+
+[Package|Penjualan2|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\Crystl32.OCX=
+C:\WINDOWS\system32\mscomct2.ocx=
+C:\WINDOWS\system32\mscomctl.ocx=
+
+[Package|Penjualan2|Files Added]
+d:\my documents\programku\penjualan\barang.rpt=
+d:\my documents\programku\penjualan\pembelian.rpt=
+d:\my documents\programku\penjualan\penjualan.mdb=
+d:\my documents\programku\penjualan\penjualan.rpt=
+d:\my documents\programku\penjualan\supplier.rpt=
+d:\my documents\programku\penjualan\skin\winaqua.skn=
+d:\my documents\programku\penjualan\skin\mac.skn=
+d:\my documents\programku\penjualan\skin\b-studio.skn=
+d:\my documents\programku\penjualan\skin\green.skn=
+
+[Package|Penjualan2|Files Removed]
+
+[Package|Penjualan2|Files In Project]
+D:\My Documents\programku\Penjualan\penjualan.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\mscomctl.ocx=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\MSADODC.OCX=Yes
+C:\WINDOWS\system32\mscomct2.ocx=Yes
+C:\WINDOWS\system32\vbskpro.ocx=Yes
+C:\WINDOWS\system32\Crystl32.OCX=Yes
+C:\WINDOWS\system32\crpe32.dll=Yes
+C:\WINDOWS\system32\implode.dll=Yes
+C:\WINDOWS\system32\pg32.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\CO2C40EN.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT20.DLL=Yes
+C:\WINDOWS\Crystal\Crxlat32.dll=Yes
+C:\WINDOWS\system32\P2bbnd.dll=Yes
+C:\WINDOWS\system32\P2BDAO.DLL=Yes
+C:\WINDOWS\system32\P2CTDAO.DLL=Yes
+C:\WINDOWS\system32\P2IRDAO.DLL=Yes
+C:\WINDOWS\system32\p2sodbc.dll=Yes
+C:\WINDOWS\system32\u2ddisk.dll=Yes
+C:\WINDOWS\Crystal\u2dmapi.dll=Yes
+C:\WINDOWS\Crystal\u2fcr.dll=Yes
+C:\WINDOWS\Crystal\u2fdif.dll=Yes
+C:\WINDOWS\Crystal\u2fhtml.dll=Yes
+C:\WINDOWS\Crystal\u2frec.dll=Yes
+C:\WINDOWS\Crystal\u2frtf.dll=Yes
+C:\WINDOWS\Crystal\u2fsepv.dll=Yes
+C:\WINDOWS\Crystal\u2ftext.dll=Yes
+C:\WINDOWS\Crystal\u2fwks.dll=Yes
+C:\WINDOWS\Crystal\u2fwordw.dll=Yes
+C:\WINDOWS\Crystal\u2fxls.dll=Yes
+C:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+C:\WINDOWS\system32\DBLIST32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\setup1.exe=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\My Documents\programku\Penjualan\barang.rpt=Yes
+D:\My Documents\programku\Penjualan\pembelian.rpt=Yes
+D:\My Documents\programku\Penjualan\Penjualan.mdb=Yes
+D:\My Documents\programku\Penjualan\penjualan.rpt=Yes
+D:\My Documents\programku\Penjualan\supplier.rpt=Yes
+C:\WINDOWS\system32\ACTSKIN4.OCX=Yes
+C:\WINDOWS\system32\XPControls.ocx=Yes
+C:\WINDOWS\system32\actrpt2.dll=Yes
+C:\WINDOWS\system32\button.ocx=Yes
+C:\WINDOWS\system32\MSMASK32.OCX=Yes
+D:\My Documents\programku\Penjualan\skin\WINAQUA.SKN=Yes
+D:\My Documents\programku\Penjualan\skin\Mac.skn=Yes
+D:\My Documents\programku\Penjualan\skin\B-Studio.skn=Yes
+D:\My Documents\programku\Penjualan\skin\GREEN.SKN=Yes
+
+[Package|Penjualan2|Configure Registry Files]
+Applicable=No
+
+[Package|Penjualan2|Configure Remote Servers]
+Applicable=No
+
+[Package|Penjualan2|Install Locations]
+D:\My Documents\programku\Penjualan\penjualan.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+D:\My Documents\vb\ocx\ACTSKIN4.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+D:\My Documents\vb\ocx\XPControls.ocx=$(WinSysPath)
+C:\WINDOWS\system32\mscomct2.ocx=$(WinSysPath)
+C:\WINDOWS\system32\vbskpro.ocx=$(WinSysPath)
+C:\Program Files\Common Files\Data Dynamics\ActiveReports 2\actrpt2.dll=$(WinSysPath)
+C:\WINDOWS\system32\Crystl32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\crpe32.dll=$(WinSysPath)
+C:\WINDOWS\system32\implode.dll=$(WinSysPath)
+C:\WINDOWS\system32\pg32.dll=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\CO2C40EN.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT20.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\Crystal\Crxlat32.dll=$(WinPath)\Crystal
+C:\WINDOWS\system32\P2bbnd.dll=$(WinSysPath)
+C:\WINDOWS\system32\P2BDAO.DLL=$(WinSysPath)
+C:\WINDOWS\system32\P2CTDAO.DLL=$(WinSysPath)
+C:\WINDOWS\system32\P2IRDAO.DLL=$(WinSysPath)
+C:\WINDOWS\system32\p2sodbc.dll=$(WinSysPath)
+C:\WINDOWS\system32\u2ddisk.dll=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\u2dmapi.dll=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\u2fcr.dll=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\u2fdif.dll=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\u2fhtml.dll=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\u2frec.dll=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\u2frtf.dll=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\u2fsepv.dll=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\u2ftext.dll=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\u2fwks.dll=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\u2fwordw.dll=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\u2fxls.dll=$(WinPath)\Crystal
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\DBLIST32.OCX=$(WinSysPath)
+D:\My Documents\vb\ocx\button.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\setup1.exe=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\My Documents\programku\Penjualan\barang.rpt=$(AppPath)
+D:\My Documents\programku\Penjualan\pembelian.rpt=$(AppPath)
+D:\My Documents\programku\Penjualan\Penjualan.mdb=$(AppPath)
+D:\My Documents\programku\Penjualan\penjualan.rpt=$(AppPath)
+D:\My Documents\programku\Penjualan\supplier.rpt=$(AppPath)
+C:\WINDOWS\system32\ACTSKIN4.OCX=$(WinSysPath)
+C:\WINDOWS\system32\XPControls.ocx=$(WinSysPath)
+C:\WINDOWS\system32\actrpt2.dll=$(WinSysPath)
+C:\WINDOWS\system32\button.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+D:\My Documents\programku\Penjualan\skin\WINAQUA.SKN=$(AppPath)\skin
+D:\My Documents\programku\Penjualan\skin\Mac.skn=$(AppPath)\skin
+D:\My Documents\programku\Penjualan\skin\B-Studio.skn=$(AppPath)\skin
+D:\My Documents\programku\Penjualan\skin\GREEN.SKN=$(AppPath)\skin
+
+[Package|Penjualan2|Configure Shared Files]
+Applicable=Yes
+D:\My Documents\programku\Penjualan\penjualan.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+D:\My Documents\programku\Penjualan\barang.rpt=No
+D:\My Documents\programku\Penjualan\pembelian.rpt=No
+D:\My Documents\programku\Penjualan\Penjualan.mdb=No
+D:\My Documents\programku\Penjualan\penjualan.rpt=No
+D:\My Documents\programku\Penjualan\supplier.rpt=No
+D:\My Documents\programku\Penjualan\skin\WINAQUA.SKN=No
+D:\My Documents\programku\Penjualan\skin\Mac.skn=No
+D:\My Documents\programku\Penjualan\skin\B-Studio.skn=No
+D:\My Documents\programku\Penjualan\skin\GREEN.SKN=No
+
+[Package|Penjualan2|Distribution]
+Type=single
+Size=
+Title=Penjualan2
+
+[Package|Penjualan2|IconGroups]
+Group0=Penjualan
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Penjualan2|Penjualan]
+Icon1=penjualan.exe
+Title1=Penjualan
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Penjualan2|Package]
+PackageFolder=D:\My Documents\programku\Dah jadi\penjualan2
+ProjectFolder=D:\My Documents\programku\Penjualan
+ServerSideCab=
+File1=D:\My Documents\programku\Dah jadi\penjualan2\setup.exe
+File2=D:\My Documents\programku\Dah jadi\penjualan2\Setup.Lst
+File3=D:\My Documents\programku\Dah jadi\penjualan2\penjualan.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Penjualan|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\My Documents\programku\Dah jadi\penjualan
+
+[Package|Penjualan|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Penjualan|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Penjualan|Files Found]
+
+[Package|Penjualan|Files Released]
+
+[Package|Penjualan|Missing Dependency Information]
+D:\My Documents\vb\ocx\button.ocx=
+C:\Program Files\Common Files\Data Dynamics\ActiveReports 2\actrpt2.dll=
+C:\WINDOWS\system32\vbskpro.ocx=
+D:\My Documents\vb\ocx\XPControls.ocx=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+D:\My Documents\vb\ocx\ACTSKIN4.OCX=
+C:\WINDOWS\system32\button.ocx=
+C:\WINDOWS\system32\actrpt2.dll=
+C:\WINDOWS\system32\XPControls.ocx=
+C:\WINDOWS\system32\ACTSKIN4.OCX=
+C:\WINDOWS\system32\Crystl32.OCX=
+C:\WINDOWS\msagent\agentctl.dll=
+
+[Package|Penjualan|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\Crystl32.OCX=
+C:\WINDOWS\system32\mscomct2.ocx=
+C:\WINDOWS\system32\mscomctl.ocx=
+C:\WINDOWS\system32\Tabctl32.ocx=
+
+[Package|Penjualan|Files Added]
+d:\my documents\programku\penjualan\barang.rpt=
+d:\my documents\programku\penjualan\pembelian.rpt=
+d:\my documents\programku\penjualan\penjualan.mdb=
+d:\my documents\programku\penjualan\penjualan.rpt=
+d:\my documents\programku\penjualan\supplier.rpt=
+d:\my documents\programku\penjualan\skin\winaqua.skn=
+d:\my documents\programku\penjualan\skin\mac.skn=
+d:\my documents\programku\penjualan\skin\b-studio.skn=
+d:\my documents\programku\penjualan\skin\green.skn=
+d:\my documents\programku\penjualan\genie.acs=
+D:\My Documents\programku\Penjualan\retur_beli.rpt=
+
+[Package|Penjualan|Files Removed]
+
+[Package|Penjualan|Files In Project]
+D:\My Documents\programku\Penjualan\penjualan.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\mscomctl.ocx=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\MSADODC.OCX=Yes
+C:\WINDOWS\system32\mscomct2.ocx=Yes
+C:\WINDOWS\system32\vbskpro.ocx=Yes
+C:\WINDOWS\system32\Crystl32.OCX=Yes
+C:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+C:\WINDOWS\system32\DBLIST32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\setup1.exe=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\My Documents\programku\Penjualan\barang.rpt=Yes
+D:\My Documents\programku\Penjualan\pembelian.rpt=Yes
+D:\My Documents\programku\Penjualan\Penjualan.mdb=Yes
+D:\My Documents\programku\Penjualan\penjualan.rpt=Yes
+D:\My Documents\programku\Penjualan\supplier.rpt=Yes
+C:\WINDOWS\system32\ACTSKIN4.OCX=Yes
+C:\WINDOWS\system32\XPControls.ocx=Yes
+C:\WINDOWS\system32\actrpt2.dll=Yes
+C:\WINDOWS\system32\button.ocx=Yes
+C:\WINDOWS\system32\MSMASK32.OCX=Yes
+D:\My Documents\programku\Penjualan\skin\WINAQUA.SKN=Yes
+D:\My Documents\programku\Penjualan\skin\Mac.skn=Yes
+D:\My Documents\programku\Penjualan\skin\B-Studio.skn=Yes
+D:\My Documents\programku\Penjualan\skin\GREEN.SKN=Yes
+C:\WINDOWS\msagent\agentctl.dll=Yes
+D:\My Documents\programku\Penjualan\Genie.acs=Yes
+D:\My Documents\programku\Penjualan\retur_beli.rpt=Yes
+
+[Package|Penjualan|Configure Registry Files]
+Applicable=No
+
+[Package|Penjualan|Configure Remote Servers]
+Applicable=No
+
+[Package|Penjualan|Install Locations]
+D:\My Documents\programku\Penjualan\penjualan.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+D:\My Documents\vb\ocx\ACTSKIN4.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+D:\My Documents\vb\ocx\XPControls.ocx=$(WinSysPath)
+C:\WINDOWS\system32\mscomct2.ocx=$(WinSysPath)
+C:\WINDOWS\system32\vbskpro.ocx=$(WinSysPath)
+C:\Program Files\Common Files\Data Dynamics\ActiveReports 2\actrpt2.dll=$(WinSysPath)
+C:\WINDOWS\system32\Crystl32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\crpe32.dll=$(WinSysPath)
+C:\WINDOWS\system32\implode.dll=$(WinSysPath)
+C:\WINDOWS\system32\pg32.dll=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\CO2C40EN.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT20.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\Crystal\Crxlat32.dll=$(WinPath)\Crystal
+C:\WINDOWS\system32\P2bbnd.dll=$(WinSysPath)
+C:\WINDOWS\system32\P2BDAO.DLL=$(WinSysPath)
+C:\WINDOWS\system32\P2CTDAO.DLL=$(WinSysPath)
+C:\WINDOWS\system32\P2IRDAO.DLL=$(WinSysPath)
+C:\WINDOWS\system32\p2sodbc.dll=$(WinSysPath)
+C:\WINDOWS\system32\u2ddisk.dll=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\u2dmapi.dll=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\u2fcr.dll=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\u2fdif.dll=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\u2fhtml.dll=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\u2frec.dll=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\u2frtf.dll=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\u2fsepv.dll=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\u2ftext.dll=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\u2fwks.dll=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\u2fwordw.dll=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\u2fxls.dll=$(WinPath)\Crystal
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\DBLIST32.OCX=$(WinSysPath)
+D:\My Documents\vb\ocx\button.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\setup1.exe=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\My Documents\programku\Penjualan\barang.rpt=$(AppPath)
+D:\My Documents\programku\Penjualan\pembelian.rpt=$(AppPath)
+D:\My Documents\programku\Penjualan\Penjualan.mdb=$(AppPath)
+D:\My Documents\programku\Penjualan\penjualan.rpt=$(AppPath)
+D:\My Documents\programku\Penjualan\supplier.rpt=$(AppPath)
+C:\WINDOWS\system32\ACTSKIN4.OCX=$(WinSysPath)
+C:\WINDOWS\system32\XPControls.ocx=$(WinSysPath)
+C:\WINDOWS\system32\actrpt2.dll=$(WinSysPath)
+C:\WINDOWS\system32\button.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+D:\My Documents\programku\Penjualan\skin\WINAQUA.SKN=$(AppPath)\skin
+D:\My Documents\programku\Penjualan\skin\Mac.skn=$(AppPath)\skin
+D:\My Documents\programku\Penjualan\skin\B-Studio.skn=$(AppPath)\skin
+D:\My Documents\programku\Penjualan\skin\GREEN.SKN=$(AppPath)\skin
+C:\WINDOWS\msagent\agentctl.dll=$(WinSysPath)
+D:\My Documents\programku\Penjualan\Genie.acs=$(AppPath)
+D:\My Documents\programku\Penjualan\retur_beli.rpt=$(AppPath)
+
+[Package|Penjualan|Configure Shared Files]
+Applicable=Yes
+D:\My Documents\programku\Penjualan\penjualan.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+D:\My Documents\programku\Penjualan\barang.rpt=No
+D:\My Documents\programku\Penjualan\pembelian.rpt=No
+D:\My Documents\programku\Penjualan\Penjualan.mdb=No
+D:\My Documents\programku\Penjualan\penjualan.rpt=No
+D:\My Documents\programku\Penjualan\supplier.rpt=No
+D:\My Documents\programku\Penjualan\skin\WINAQUA.SKN=No
+D:\My Documents\programku\Penjualan\skin\Mac.skn=No
+D:\My Documents\programku\Penjualan\skin\B-Studio.skn=No
+D:\My Documents\programku\Penjualan\skin\GREEN.SKN=No
+D:\My Documents\programku\Penjualan\Genie.acs=No
+D:\My Documents\programku\Penjualan\retur_beli.rpt=No
+
+[Package|Penjualan|Distribution]
+Type=single
+Size=
+Title=Penjualan
+
+[Package|Penjualan|Package]
+PackageFolder=D:\My Documents\programku\Dah jadi\penjualan
+ProjectFolder=D:\My Documents\programku\Penjualan
+ServerSideCab=
+File1=D:\My Documents\programku\Dah jadi\penjualan\setup.exe
+File2=D:\My Documents\programku\Dah jadi\penjualan\Setup.Lst
+File3=D:\My Documents\programku\Dah jadi\penjualan\penjualan.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Penjualan|IconGroups]
+Group0=Penjualan
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Penjualan|Penjualan]
+Icon1=penjualan.exe
+Title1=Penjualan
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|POS|Package]
+PackageFolder=D:\My Documents\programku\Dah jadi\POS
+ProjectFolder=D:\My Documents\programku\POS
+ServerSideCab=
+File1=D:\My Documents\programku\Dah jadi\POS\setup.exe
+File2=D:\My Documents\programku\Dah jadi\POS\Setup.Lst
+File3=D:\My Documents\programku\Dah jadi\POS\penjualan.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|POS|Toko]
+Icon1=penjualan.exe
+Title1=Toko
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|POS|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\My Documents\programku\Dah jadi\POS
+
+[Package|POS|Configure DAO ISAMs]
+Applicable=No
+
+[Package|POS|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|POS|Files Found]
+
+[Package|POS|Files Released]
+u2LBAR.DLL=
+u25TOTAL.DLL=
+u25STORE.DLL=
+Crystal=
+
+[Package|POS|Missing Dependency Information]
+C:\WINDOWS\system32\button.ocx=
+C:\WINDOWS\system32\vbskpro.ocx=
+C:\WINDOWS\system32\XPControls.ocx=
+C:\WINDOWS\system32\actrpt2.dll=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\WINDOWS\system32\ACTSKIN4.OCX=
+
+[Package|POS|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\crpe32.dll=
+C:\WINDOWS\system32\Crystl32.OCX=
+C:\WINDOWS\system32\mscomct2.ocx=
+C:\WINDOWS\system32\MSDATGRD.OCX=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\TABCTL32.OCX=
+
+[Package|POS|Files Added]
+d:\my documents\programku\pos\barang.rpt=
+d:\my documents\programku\pos\pembelian.rpt=
+d:\my documents\programku\pos\pemesanan.rpt=
+d:\my documents\programku\pos\penjualan.rpt=
+d:\my documents\programku\pos\penjualan.mdb=
+d:\my documents\programku\pos\retur_beli.rpt=
+d:\my documents\programku\pos\supplier.rpt=
+d:\my documents\programku\pos\skin\actskin4.oca=
+d:\my documents\programku\pos\skin\b-studio.skn=
+d:\my documents\programku\pos\skin\chizh.skn=
+d:\my documents\programku\pos\skin\galaxy.skn=
+d:\my documents\programku\pos\skin\green.skn=
+d:\my documents\programku\pos\skin\mac.skn=
+d:\my documents\programku\pos\skin\media.skn=
+d:\my documents\programku\pos\skin\metallic.skn=
+d:\my documents\programku\pos\skin\paper.skn=
+d:\my documents\programku\pos\skin\plasmoid.skn=
+d:\my documents\programku\pos\skin\topsecret.skn=
+d:\my documents\programku\pos\skin\vvv.skn=
+d:\my documents\programku\pos\skin\web-ii.skn=
+d:\my documents\programku\pos\skin\winaqua2.skn=
+d:\my documents\programku\pos\skin\winaqua.skn=
+d:\my documents\programku\pos\skin\zhelezo.skn=
+
+[Package|POS|Files Removed]
+
+[Package|POS|Files In Project]
+D:\My Documents\programku\POS\penjualan.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\ACTSKIN4.OCX=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\actrpt2.dll=Yes
+C:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\MSADODC.OCX=Yes
+C:\WINDOWS\system32\XPControls.ocx=Yes
+C:\WINDOWS\system32\mscomct2.ocx=Yes
+C:\WINDOWS\system32\vbskpro.ocx=Yes
+C:\WINDOWS\system32\Crystl32.OCX=Yes
+C:\WINDOWS\system32\crpe32.dll=Yes
+C:\WINDOWS\system32\Implode.dll=Yes
+C:\WINDOWS\system32\crpaig32.dll=Yes
+C:\WINDOWS\system32\msvcrt.dll=Yes
+C:\WINDOWS\system32\mfc42.dll=Yes
+C:\WINDOWS\Crystal\Crxlat32.dll=Yes
+C:\WINDOWS\Crystal\p2bbde.dll=Yes
+C:\WINDOWS\system32\P2bbnd.dll=Yes
+C:\WINDOWS\system32\p2bdao.dll=Yes
+C:\WINDOWS\Crystal\p2bxbse.dll=Yes
+C:\WINDOWS\system32\p2ctdao.dll=Yes
+C:\WINDOWS\system32\p2irdao.dll=Yes
+C:\WINDOWS\Crystal\p2sifmx.dll=Yes
+C:\WINDOWS\system32\P2smon.dll=Yes
+C:\WINDOWS\system32\p2sodbc.dll=Yes
+C:\WINDOWS\Crystal\p2sora7.dll=Yes
+C:\WINDOWS\Crystal\p2ssql.dll=Yes
+C:\WINDOWS\Crystal\p2ssyb10.dll=Yes
+C:\WINDOWS\Crystal\p2soledb.dll=Yes
+C:\WINDOWS\Crystal\u2ddisk.dll=Yes
+C:\WINDOWS\Crystal\u2dmapi.dll=Yes
+C:\WINDOWS\Crystal\u2dnotes.dll=Yes
+C:\WINDOWS\Crystal\u2dpost.dll=Yes
+C:\WINDOWS\Crystal\u2dvim.dll=Yes
+C:\WINDOWS\Crystal\u2dapp.dll=Yes
+C:\WINDOWS\Crystal\u2fcr.dll=Yes
+C:\WINDOWS\Crystal\u2fhtml.dll=Yes
+C:\WINDOWS\Crystal\u2fodbc.dll=Yes
+C:\WINDOWS\Crystal\u2frec.dll=Yes
+C:\WINDOWS\Crystal\u2frtf.dll=Yes
+C:\WINDOWS\Crystal\u2fsepv.dll=Yes
+C:\WINDOWS\Crystal\u2ftext.dll=Yes
+C:\WINDOWS\Crystal\u2fwks.dll=Yes
+C:\WINDOWS\Crystal\u2fwordw.dll=Yes
+C:\WINDOWS\Crystal\u2fxls.dll=Yes
+C:\WINDOWS\Crystal\u25dts.dll=Yes
+C:\WINDOWS\Crystal\u2l2000.dll=Yes
+C:\WINDOWS\Crystal\u2lcom.dll=Yes
+C:\WINDOWS\Crystal\u2ldts.dll=Yes
+C:\WINDOWS\Crystal\u2lsamp1.dll=Yes
+C:\WINDOWS\Crystal\u252000.dll=Yes
+\program files\seagate software\sschart\SSCSDK32.DLL=Yes
+C:\WINDOWS\system32\DBLIST32.OCX=Yes
+C:\WINDOWS\system32\button.ocx=Yes
+C:\WINDOWS\system32\MSMASK32.OCX=Yes
+C:\WINDOWS\system32\MSCOMM32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\My Documents\programku\POS\barang.rpt=Yes
+D:\My Documents\programku\POS\pembelian.rpt=Yes
+D:\My Documents\programku\POS\pemesanan.rpt=Yes
+D:\My Documents\programku\POS\penjualan.rpt=Yes
+D:\My Documents\programku\POS\Penjualan.mdb=Yes
+D:\My Documents\programku\POS\retur_beli.rpt=Yes
+D:\My Documents\programku\POS\supplier.rpt=Yes
+D:\My Documents\programku\POS\skin\ACTSKIN4.OCA=Yes
+D:\My Documents\programku\POS\skin\B-Studio.skn=Yes
+D:\My Documents\programku\POS\skin\CHIZH.SKN=Yes
+D:\My Documents\programku\POS\skin\GALAXY.SKN=Yes
+D:\My Documents\programku\POS\skin\GREEN.SKN=Yes
+D:\My Documents\programku\POS\skin\Mac.skn=Yes
+D:\My Documents\programku\POS\skin\Media.skn=Yes
+D:\My Documents\programku\POS\skin\METALLIC.SKN=Yes
+D:\My Documents\programku\POS\skin\Paper.skn=Yes
+D:\My Documents\programku\POS\skin\PLASMOID.SKN=Yes
+D:\My Documents\programku\POS\skin\TopSecret.skn=Yes
+D:\My Documents\programku\POS\skin\VVV.SKN=Yes
+D:\My Documents\programku\POS\skin\Web-II.skn=Yes
+D:\My Documents\programku\POS\skin\WINAQUA2.SKN=Yes
+D:\My Documents\programku\POS\skin\WINAQUA.SKN=Yes
+D:\My Documents\programku\POS\skin\Zhelezo.skn=Yes
+
+[Package|POS|Configure Registry Files]
+Applicable=No
+
+[Package|POS|Configure Remote Servers]
+Applicable=No
+
+[Package|POS|Install Locations]
+D:\My Documents\programku\POS\penjualan.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\ACTSKIN4.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\actrpt2.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\system32\XPControls.ocx=$(WinSysPath)
+C:\WINDOWS\system32\mscomct2.ocx=$(WinSysPath)
+C:\WINDOWS\system32\vbskpro.ocx=$(WinSysPath)
+C:\WINDOWS\system32\Crystl32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\crpe32.dll=$(WinSysPath)
+C:\WINDOWS\system32\Implode.dll=$(AppPath)
+C:\WINDOWS\system32\crpaig32.dll=$(WinSysPath)
+C:\WINDOWS\system32\msvcrt.dll=$(WinSysPath)
+C:\WINDOWS\system32\mfc42.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\Crxlat32.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2bbde.dll=$(WinSysPath)
+C:\WINDOWS\system32\P2bbnd.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2bdao.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2bxbse.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2ctdao.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2irdao.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2sifmx.dll=$(WinSysPath)
+C:\WINDOWS\system32\P2smon.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2sodbc.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2sora7.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2ssql.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2ssyb10.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2soledb.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2ddisk.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dmapi.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dnotes.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dpost.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dvim.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dapp.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fcr.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fhtml.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fodbc.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2frec.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2frtf.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fsepv.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2ftext.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fwks.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fwordw.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fxls.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u25dts.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2l2000.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2lcom.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2ldts.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2lsamp1.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u252000.dll=$(WinSysPath)
+\program files\seagate software\sschart\SSCSDK32.DLL=$(WinSysPath)
+C:\WINDOWS\system32\DBLIST32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\button.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMM32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\My Documents\programku\POS\barang.rpt=$(AppPath)
+D:\My Documents\programku\POS\pembelian.rpt=$(AppPath)
+D:\My Documents\programku\POS\pemesanan.rpt=$(AppPath)
+D:\My Documents\programku\POS\penjualan.rpt=$(AppPath)
+D:\My Documents\programku\POS\Penjualan.mdb=$(AppPath)
+D:\My Documents\programku\POS\retur_beli.rpt=$(AppPath)
+D:\My Documents\programku\POS\supplier.rpt=$(AppPath)
+D:\My Documents\programku\POS\skin\ACTSKIN4.OCA=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\B-Studio.skn=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\CHIZH.SKN=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\GALAXY.SKN=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\GREEN.SKN=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\Mac.skn=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\Media.skn=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\METALLIC.SKN=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\Paper.skn=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\PLASMOID.SKN=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\TopSecret.skn=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\VVV.SKN=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\Web-II.skn=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\WINAQUA2.SKN=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\WINAQUA.SKN=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\Zhelezo.skn=$(AppPath)\skin
+
+[Package|POS|Configure Shared Files]
+Applicable=Yes
+D:\My Documents\programku\POS\penjualan.exe=No
+C:\WINDOWS\system32\Implode.dll=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+D:\My Documents\programku\POS\barang.rpt=No
+D:\My Documents\programku\POS\pembelian.rpt=No
+D:\My Documents\programku\POS\pemesanan.rpt=No
+D:\My Documents\programku\POS\penjualan.rpt=No
+D:\My Documents\programku\POS\Penjualan.mdb=No
+D:\My Documents\programku\POS\retur_beli.rpt=No
+D:\My Documents\programku\POS\supplier.rpt=No
+D:\My Documents\programku\POS\skin\ACTSKIN4.OCA=No
+D:\My Documents\programku\POS\skin\B-Studio.skn=No
+D:\My Documents\programku\POS\skin\CHIZH.SKN=No
+D:\My Documents\programku\POS\skin\GALAXY.SKN=No
+D:\My Documents\programku\POS\skin\GREEN.SKN=No
+D:\My Documents\programku\POS\skin\Mac.skn=No
+D:\My Documents\programku\POS\skin\Media.skn=No
+D:\My Documents\programku\POS\skin\METALLIC.SKN=No
+D:\My Documents\programku\POS\skin\Paper.skn=No
+D:\My Documents\programku\POS\skin\PLASMOID.SKN=No
+D:\My Documents\programku\POS\skin\TopSecret.skn=No
+D:\My Documents\programku\POS\skin\VVV.SKN=No
+D:\My Documents\programku\POS\skin\Web-II.skn=No
+D:\My Documents\programku\POS\skin\WINAQUA2.SKN=No
+D:\My Documents\programku\POS\skin\WINAQUA.SKN=No
+D:\My Documents\programku\POS\skin\Zhelezo.skn=No
+
+[Package|POS|Distribution]
+Type=single
+Size=
+Title=Point of Sale
+
+[Package|POS|IconGroups]
+Group0=Point of Sale
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|POS|Point of Sale]
+Icon1=penjualan.exe
+Title1=Point of Sale
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|POS2(mysql)|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=H:\My Documents\programku\Dah jadi\POS2(mysql)
+
+[Package|POS2(mysql)|Configure DAO ISAMs]
+Applicable=No
+
+[Package|POS2(mysql)|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|POS2(mysql)|Files Found]
+barang.rpt=H:\My Documents\programku\pos2(mysql)\barang.rpt
+B-Studio.skn=H:\My Documents\programku\pos2(mysql)\skin\B-Studio.skn
+
+[Package|POS2(mysql)|Files Released]
+u2LBAR.DLL=
+u25TOTAL.DLL=
+u25STORE.DLL=
+Crystal=
+crxf_PDF.DLL=
+crxf_RTF.DLL=
+exportmodeller.dll=
+crtslv.dll=
+SSCSDK32.DLL=
+
+[Package|POS2(mysql)|Missing Dependency Information]
+C:\WINDOWS\system32\button.ocx=
+C:\WINDOWS\system32\vbskpro.ocx=
+C:\WINDOWS\system32\XPControls.ocx=
+C:\WINDOWS\system32\actrpt2.dll=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\WINDOWS\system32\ACTSKIN4.OCX=
+D:\WINDOWS\system32\button.ocx=
+D:\WINDOWS\system32\vbskpro.ocx=
+D:\WINDOWS\system32\XPControls.ocx=
+D:\WINDOWS\system32\actrpt2.dll=
+D:\WINDOWS\system32\ACTSKIN4.OCX=
+D:\WINDOWS\system32\uxtheme.dll=
+C:\Windows\System32\Crystl32.OCX=
+C:\Program Files\Common Files\System\ado\msado28.tlb=
+C:\Windows\System32\uxtheme.dll=
+C:\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7600.16385_none_ebf82fc36c758ad5\comctl32.dll=
+
+[Package|POS2(mysql)|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\crpe32.dll=
+C:\WINDOWS\system32\Crystl32.OCX=
+C:\WINDOWS\system32\mscomct2.ocx=
+C:\WINDOWS\system32\MSDATGRD.OCX=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\TABCTL32.OCX=
+D:\WINDOWS\system32\Crystl32.OCX=
+D:\WINDOWS\system32\MSCOMCT2.OCX=
+D:\WINDOWS\system32\MSADODC.OCX=
+D:\WINDOWS\system32\Msdatgrd.ocx=
+D:\WINDOWS\system32\Mscomctl.ocx=
+D:\WINDOWS\system32\MSSTDFMT.DLL=
+D:\WINDOWS\system32\TABCTL32.OCX=
+C:\Windows\System32\MSSTDFMT.DLL=
+D:\WINDOWS\system32\crpe32.dll=
+
+[Package|POS2(mysql)|Files Added]
+barang.rpt=
+pembelian.rpt=
+pemesanan.rpt=
+penjualan.rpt=
+penjualan.mdb=
+retur_beli.rpt=
+supplier.rpt=
+actskin4.oca=
+b-studio.skn=
+chizh.skn=
+galaxy.skn=
+green.skn=
+mac.skn=
+media.skn=
+metallic.skn=
+paper.skn=
+plasmoid.skn=
+topsecret.skn=
+vvv.skn=
+web-ii.skn=
+winaqua2.skn=
+winaqua.skn=
+zhelezo.skn=
+labarugi.rpt=
+themedbutton.ctl=
+
+[Package|POS2(mysql)|Files Removed]
+
+[Package|POS2(mysql)|Files In Project]
+H:\My Documents\programku\pos2(mysql)\penjualan.exe=Yes
+D:\WINDOWS\system32\msvbvm60.dll=Yes
+D:\WINDOWS\system32\oleaut32.dll=Yes
+D:\WINDOWS\system32\olepro32.dll=Yes
+D:\WINDOWS\system32\asycfilt.dll=Yes
+D:\WINDOWS\system32\stdole2.tlb=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+D:\WINDOWS\system32\uxtheme.dll=Yes
+D:\WINDOWS\system32\ACTSKIN4.OCX=Yes
+D:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+D:\WINDOWS\system32\actrpt2.dll=Yes
+D:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+D:\WINDOWS\system32\tabctl32.ocx=Yes
+D:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+D:\WINDOWS\system32\MSDATGRD.OCX=Yes
+D:\WINDOWS\system32\MSADODC.OCX=Yes
+D:\WINDOWS\system32\XPControls.ocx=Yes
+D:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+D:\WINDOWS\system32\vbskpro.ocx=Yes
+D:\WINDOWS\system32\crystl32.ocx=Yes
+D:\WINDOWS\system32\crpe32.dll=Yes
+D:\WINDOWS\system32\implode.dll=Yes
+D:\WINDOWS\system32\crpaig32.dll=Yes
+D:\WINDOWS\system32\msvcrt.dll=Yes
+D:\WINDOWS\system32\mfc42.dll=Yes
+D:\WINDOWS\Crystal\crxlat32.dll=Yes
+D:\WINDOWS\Crystal\p2bbde.dll=Yes
+D:\WINDOWS\system32\p2bbnd.dll=Yes
+D:\WINDOWS\system32\p2bdao.dll=Yes
+D:\WINDOWS\Crystal\p2bxbse.dll=Yes
+D:\WINDOWS\system32\p2ctdao.dll=Yes
+D:\WINDOWS\system32\p2irdao.dll=Yes
+D:\WINDOWS\Crystal\p2sifmx.dll=Yes
+D:\WINDOWS\system32\p2smon.dll=Yes
+D:\WINDOWS\system32\p2sodbc.dll=Yes
+D:\WINDOWS\Crystal\p2sora7.dll=Yes
+D:\WINDOWS\Crystal\p2ssql.dll=Yes
+D:\WINDOWS\Crystal\p2ssyb10.dll=Yes
+D:\WINDOWS\Crystal\p2soledb.dll=Yes
+D:\WINDOWS\Crystal\u2ddisk.dll=Yes
+D:\WINDOWS\Crystal\u2dmapi.dll=Yes
+D:\WINDOWS\Crystal\u2dnotes.dll=Yes
+D:\WINDOWS\Crystal\u2dpost.dll=Yes
+D:\WINDOWS\Crystal\u2dvim.dll=Yes
+D:\WINDOWS\Crystal\u2dapp.dll=Yes
+D:\WINDOWS\Crystal\u2fcr.dll=Yes
+D:\WINDOWS\Crystal\u2fhtml.dll=Yes
+D:\WINDOWS\Crystal\u2fodbc.dll=Yes
+D:\WINDOWS\Crystal\u2frec.dll=Yes
+D:\WINDOWS\Crystal\u2frtf.dll=Yes
+D:\WINDOWS\Crystal\u2fsepv.dll=Yes
+D:\WINDOWS\Crystal\u2ftext.dll=Yes
+D:\WINDOWS\Crystal\u2fwks.dll=Yes
+D:\WINDOWS\Crystal\u2fwordw.dll=Yes
+D:\WINDOWS\Crystal\u2fxls.dll=Yes
+D:\WINDOWS\Crystal\u25dts.dll=Yes
+D:\WINDOWS\Crystal\u2l2000.dll=Yes
+D:\WINDOWS\Crystal\u2lcom.dll=Yes
+D:\WINDOWS\Crystal\u2ldts.dll=Yes
+D:\WINDOWS\Crystal\u2lsamp1.dll=Yes
+D:\WINDOWS\Crystal\u252000.dll=Yes
+D:\WINDOWS\system32\DBLIST32.OCX=Yes
+D:\WINDOWS\system32\button.ocx=Yes
+D:\WINDOWS\system32\MSMASK32.OCX=Yes
+D:\WINDOWS\system32\MSCOMM32.OCX=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+D:\WINDOWS\system32\VB6STKIT.DLL=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+H:\My Documents\programku\pos2(mysql)\barang.rpt=Yes
+H:\My Documents\programku\pos2(mysql)\pembelian.rpt=Yes
+H:\My Documents\programku\pos2(mysql)\pemesanan.rpt=Yes
+H:\My Documents\programku\pos2(mysql)\penjualan.rpt=Yes
+H:\My Documents\programku\pos2(mysql)\Penjualan.mdb=Yes
+H:\My Documents\programku\pos2(mysql)\retur_beli.rpt=Yes
+H:\My Documents\programku\pos2(mysql)\supplier.rpt=Yes
+D:\WINDOWS\system32\ACTSKIN4.oca=Yes
+H:\My Documents\programku\pos2(mysql)\skin\B-Studio.skn=Yes
+H:\My Documents\programku\pos2(mysql)\skin\CHIZH.SKN=Yes
+H:\My Documents\programku\pos2(mysql)\skin\GALAXY.SKN=Yes
+H:\My Documents\programku\pos2(mysql)\skin\GREEN.SKN=Yes
+H:\My Documents\programku\pos2(mysql)\skin\Mac.skn=Yes
+H:\My Documents\programku\pos2(mysql)\skin\Media.skn=Yes
+H:\My Documents\programku\pos2(mysql)\skin\METALLIC.SKN=Yes
+H:\My Documents\programku\pos2(mysql)\skin\Paper.skn=Yes
+H:\My Documents\programku\pos2(mysql)\skin\PLASMOID.SKN=Yes
+H:\My Documents\programku\pos2(mysql)\skin\TopSecret.skn=Yes
+H:\My Documents\programku\pos2(mysql)\skin\VVV.SKN=Yes
+H:\My Documents\programku\pos2(mysql)\skin\Web-II.skn=Yes
+H:\My Documents\programku\pos2(mysql)\skin\WINAQUA2.SKN=Yes
+H:\My Documents\programku\pos2(mysql)\skin\WINAQUA.SKN=Yes
+H:\My Documents\programku\pos2(mysql)\skin\Zhelezo.skn=Yes
+H:\My Documents\programku\pos2(mysql)\labarugi.rpt=Yes
+H:\My Documents\programku\pos2(mysql)\ThemedButton.ctl=Yes
+
+[Package|POS2(mysql)|Configure Registry Files]
+Applicable=No
+
+[Package|POS2(mysql)|Configure Remote Servers]
+Applicable=No
+
+[Package|POS2(mysql)|Install Locations]
+D:\My Documents\programku\POS\penjualan.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\ACTSKIN4.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\actrpt2.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\system32\XPControls.ocx=$(WinSysPath)
+C:\WINDOWS\system32\mscomct2.ocx=$(WinSysPath)
+C:\WINDOWS\system32\vbskpro.ocx=$(WinSysPath)
+C:\WINDOWS\system32\Crystl32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\crpe32.dll=$(WinSysPath)
+C:\WINDOWS\system32\Implode.dll=$(AppPath)
+C:\WINDOWS\system32\crpaig32.dll=$(WinSysPath)
+C:\WINDOWS\system32\msvcrt.dll=$(WinSysPath)
+C:\WINDOWS\system32\mfc42.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\Crxlat32.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2bbde.dll=$(WinSysPath)
+C:\WINDOWS\system32\P2bbnd.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2bdao.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2bxbse.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2ctdao.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2irdao.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2sifmx.dll=$(WinSysPath)
+C:\WINDOWS\system32\P2smon.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2sodbc.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2sora7.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2ssql.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2ssyb10.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2soledb.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2ddisk.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dmapi.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dnotes.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dpost.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dvim.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dapp.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fcr.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fhtml.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fodbc.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2frec.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2frtf.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fsepv.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2ftext.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fwks.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fwordw.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fxls.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u25dts.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2l2000.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2lcom.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2ldts.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2lsamp1.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u252000.dll=$(WinSysPath)
+\program files\seagate software\sschart\SSCSDK32.DLL=$(WinSysPath)
+C:\WINDOWS\system32\DBLIST32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\button.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMM32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\My Documents\programku\POS\barang.rpt=$(AppPath)
+D:\My Documents\programku\POS\pembelian.rpt=$(AppPath)
+D:\My Documents\programku\POS\pemesanan.rpt=$(AppPath)
+D:\My Documents\programku\POS\penjualan.rpt=$(AppPath)
+D:\My Documents\programku\POS\Penjualan.mdb=$(AppPath)
+D:\My Documents\programku\POS\retur_beli.rpt=$(AppPath)
+D:\My Documents\programku\POS\supplier.rpt=$(AppPath)
+D:\My Documents\programku\POS\skin\ACTSKIN4.OCA=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\B-Studio.skn=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\CHIZH.SKN=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\GALAXY.SKN=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\GREEN.SKN=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\Mac.skn=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\Media.skn=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\METALLIC.SKN=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\Paper.skn=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\PLASMOID.SKN=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\TopSecret.skn=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\VVV.SKN=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\Web-II.skn=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\WINAQUA2.SKN=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\WINAQUA.SKN=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\Zhelezo.skn=$(AppPath)\skin
+C:\My Documents\programku\pos2\penjualan.exe=$(AppPath)
+D:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+D:\WINDOWS\system32\uxtheme.dll=$(WinSysPath)
+D:\WINDOWS\system32\ACTSKIN4.OCX=$(WinSysPath)
+D:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+D:\WINDOWS\system32\actrpt2.dll=$(WinSysPath)
+D:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+D:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+D:\WINDOWS\system32\Mscomctl.ocx=$(WinSysPath)
+D:\WINDOWS\system32\Msdatgrd.ocx=$(WinSysPath)
+D:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+D:\WINDOWS\system32\XPControls.ocx=$(WinSysPath)
+D:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+D:\WINDOWS\system32\vbskpro.ocx=$(WinSysPath)
+D:\WINDOWS\system32\Crystl32.OCX=$(WinSysPath)
+D:\WINDOWS\system32\CRPE32.DLL=$(WinSysPath)
+D:\WINDOWS\system32\implode.dll=$(AppPath)
+D:\WINDOWS\system32\CRPAIG80.DLL=$(WinSysPath)
+D:\WINDOWS\system32\msvcrt.dll=$(WinSysPath)
+D:\WINDOWS\system32\mfc42.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\crxlat32.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\p2bbde.dll=$(WinSysPath)
+D:\WINDOWS\system32\p2bbnd.dll=$(WinSysPath)
+D:\WINDOWS\system32\p2bdao.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\p2bxbse.dll=$(WinSysPath)
+D:\WINDOWS\system32\p2ctdao.dll=$(WinSysPath)
+D:\WINDOWS\system32\p2irdao.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\p2sifmx.dll=$(WinSysPath)
+D:\WINDOWS\system32\p2smon.dll=$(WinSysPath)
+D:\WINDOWS\system32\p2sodbc.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\p2sora7.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\p2ssql.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\p2ssyb10.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\p2soledb.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2ddisk.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2dmapi.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2dnotes.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2dpost.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2dvim.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2dapp.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2fcr.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2fhtml.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2fodbc.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2frec.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2fsepv.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2ftext.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2fwks.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2fwordw.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2fxls.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u25dts.dll=$(AppPath)
+D:\WINDOWS\Crystal\u2l2000.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2lcom.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2ldts.dll=$(AppPath)
+D:\WINDOWS\Crystal\u2lsamp1.dll=$(AppPath)
+D:\WINDOWS\Crystal\u252000.dll=$(WinSysPath)
+C:\My Documents\programku\pos2\SSCSDK80.DLL=$(WinSysPath)
+D:\WINDOWS\system32\DBLIST32.OCX=$(WinSysPath)
+D:\WINDOWS\system32\button.ocx=$(WinSysPath)
+D:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+D:\WINDOWS\system32\MSCOMM32.OCX=$(WinSysPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+D:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\My Documents\programku\pos2\barang.rpt=$(AppPath)
+C:\My Documents\programku\pos2\pembelian.rpt=$(AppPath)
+C:\My Documents\programku\pos2\pemesanan.rpt=$(AppPath)
+C:\My Documents\programku\pos2\penjualan.rpt=$(AppPath)
+C:\My Documents\programku\pos2\Penjualan.mdb=$(AppPath)
+C:\My Documents\programku\pos2\retur_beli.rpt=$(AppPath)
+C:\My Documents\programku\pos2\supplier.rpt=$(AppPath)
+D:\WINDOWS\system32\ACTSKIN4.oca=$(AppPath)
+C:\My Documents\programku\pos2\skin\B-Studio.skn=$(AppPath)
+C:\My Documents\programku\pos2\skin\CHIZH.SKN=$(AppPath)
+C:\My Documents\programku\pos2\skin\GALAXY.SKN=$(AppPath)
+C:\My Documents\programku\pos2\skin\GREEN.SKN=$(AppPath)
+C:\My Documents\programku\pos2\skin\Mac.skn=$(AppPath)
+C:\My Documents\programku\pos2\skin\Media.skn=$(AppPath)
+C:\My Documents\programku\pos2\skin\METALLIC.SKN=$(AppPath)
+C:\My Documents\programku\pos2\skin\Paper.skn=$(AppPath)
+C:\My Documents\programku\pos2\skin\PLASMOID.SKN=$(AppPath)
+C:\My Documents\programku\pos2\skin\TopSecret.skn=$(AppPath)
+C:\My Documents\programku\pos2\skin\VVV.SKN=$(AppPath)
+C:\My Documents\programku\pos2\skin\Web-II.skn=$(AppPath)
+C:\My Documents\programku\pos2\skin\WINAQUA2.SKN=$(AppPath)
+C:\My Documents\programku\pos2\skin\WINAQUA.SKN=$(AppPath)
+C:\My Documents\programku\pos2\skin\Zhelezo.skn=$(AppPath)
+C:\My Documents\programku\pos2\labarugi.rpt=$(AppPath)
+C:\My Documents\programku\pos2\ThemedButton.ctl=$(AppPath)
+D:\WINDOWS\Crystal\crxf_rtf.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\crxf_pdf.dll=$(WinSysPath)
+D:\WINDOWS\system32\SSCSDK80.DLL=$(WinSysPath)
+G:\My Documents\programku\pos2\penjualan.exe=$(AppPath)
+C:\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7600.16385_none_ebf82fc36c758ad5\comctl32.dll=$(WinSysPath)
+C:\Windows\System32\uxtheme.dll=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado28.tlb=$(WinSysPath)
+G:\My Documents\programku\pos2\barang.rpt=$(AppPath)
+G:\My Documents\programku\pos2\pembelian.rpt=$(AppPath)
+G:\My Documents\programku\pos2\pemesanan.rpt=$(AppPath)
+G:\My Documents\programku\pos2\penjualan.rpt=$(AppPath)
+G:\My Documents\programku\pos2\Penjualan.mdb=$(AppPath)
+G:\My Documents\programku\pos2\retur_beli.rpt=$(AppPath)
+G:\My Documents\programku\pos2\supplier.rpt=$(AppPath)
+C:\Windows\System32\ACTSKIN4.oca=$(AppPath)
+G:\My Documents\programku\pos2\skin\B-Studio.skn=$(AppPath)
+G:\My Documents\programku\pos2\skin\CHIZH.SKN=$(AppPath)
+G:\My Documents\programku\pos2\skin\GALAXY.SKN=$(AppPath)
+G:\My Documents\programku\pos2\skin\GREEN.SKN=$(AppPath)
+G:\My Documents\programku\pos2\skin\Mac.skn=$(AppPath)
+G:\My Documents\programku\pos2\skin\Media.skn=$(AppPath)
+G:\My Documents\programku\pos2\skin\METALLIC.SKN=$(AppPath)
+G:\My Documents\programku\pos2\skin\Paper.skn=$(AppPath)
+G:\My Documents\programku\pos2\skin\PLASMOID.SKN=$(AppPath)
+G:\My Documents\programku\pos2\skin\TopSecret.skn=$(AppPath)
+G:\My Documents\programku\pos2\skin\VVV.SKN=$(AppPath)
+G:\My Documents\programku\pos2\skin\Web-II.skn=$(AppPath)
+G:\My Documents\programku\pos2\skin\WINAQUA2.SKN=$(AppPath)
+G:\My Documents\programku\pos2\skin\WINAQUA.SKN=$(AppPath)
+G:\My Documents\programku\pos2\skin\Zhelezo.skn=$(AppPath)
+G:\My Documents\programku\pos2\labarugi.rpt=$(AppPath)
+G:\My Documents\programku\pos2\ThemedButton.ctl=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\penjualan.exe=$(AppPath)
+D:\WINDOWS\system32\crpaig32.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2frtf.dll=$(WinSysPath)
+H:\My Documents\programku\pos2(mysql)\barang.rpt=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\pembelian.rpt=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\pemesanan.rpt=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\penjualan.rpt=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\Penjualan.mdb=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\retur_beli.rpt=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\supplier.rpt=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\skin\B-Studio.skn=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\skin\CHIZH.SKN=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\skin\GALAXY.SKN=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\skin\GREEN.SKN=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\skin\Mac.skn=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\skin\Media.skn=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\skin\METALLIC.SKN=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\skin\Paper.skn=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\skin\PLASMOID.SKN=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\skin\TopSecret.skn=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\skin\VVV.SKN=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\skin\Web-II.skn=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\skin\WINAQUA2.SKN=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\skin\WINAQUA.SKN=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\skin\Zhelezo.skn=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\labarugi.rpt=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\ThemedButton.ctl=$(AppPath)
+
+[Package|POS2(mysql)|Configure Shared Files]
+Applicable=Yes
+D:\My Documents\programku\POS\penjualan.exe=No
+C:\WINDOWS\system32\Implode.dll=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+D:\My Documents\programku\POS\barang.rpt=No
+D:\My Documents\programku\POS\pembelian.rpt=No
+D:\My Documents\programku\POS\pemesanan.rpt=No
+D:\My Documents\programku\POS\penjualan.rpt=No
+D:\My Documents\programku\POS\Penjualan.mdb=No
+D:\My Documents\programku\POS\retur_beli.rpt=No
+D:\My Documents\programku\POS\supplier.rpt=No
+D:\My Documents\programku\POS\skin\ACTSKIN4.OCA=No
+D:\My Documents\programku\POS\skin\B-Studio.skn=No
+D:\My Documents\programku\POS\skin\CHIZH.SKN=No
+D:\My Documents\programku\POS\skin\GALAXY.SKN=No
+D:\My Documents\programku\POS\skin\GREEN.SKN=No
+D:\My Documents\programku\POS\skin\Mac.skn=No
+D:\My Documents\programku\POS\skin\Media.skn=No
+D:\My Documents\programku\POS\skin\METALLIC.SKN=No
+D:\My Documents\programku\POS\skin\Paper.skn=No
+D:\My Documents\programku\POS\skin\PLASMOID.SKN=No
+D:\My Documents\programku\POS\skin\TopSecret.skn=No
+D:\My Documents\programku\POS\skin\VVV.SKN=No
+D:\My Documents\programku\POS\skin\Web-II.skn=No
+D:\My Documents\programku\POS\skin\WINAQUA2.SKN=No
+D:\My Documents\programku\POS\skin\WINAQUA.SKN=No
+D:\My Documents\programku\POS\skin\Zhelezo.skn=No
+C:\My Documents\programku\pos2\penjualan.exe=No
+D:\WINDOWS\system32\implode.dll=No
+D:\WINDOWS\Crystal\u25dts.dll=No
+D:\WINDOWS\Crystal\u2ldts.dll=No
+D:\WINDOWS\Crystal\u2lsamp1.dll=No
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\My Documents\programku\pos2\barang.rpt=No
+C:\My Documents\programku\pos2\pembelian.rpt=No
+C:\My Documents\programku\pos2\pemesanan.rpt=No
+C:\My Documents\programku\pos2\penjualan.rpt=No
+C:\My Documents\programku\pos2\Penjualan.mdb=No
+C:\My Documents\programku\pos2\retur_beli.rpt=No
+C:\My Documents\programku\pos2\supplier.rpt=No
+D:\WINDOWS\system32\ACTSKIN4.oca=No
+C:\My Documents\programku\pos2\skin\B-Studio.skn=No
+C:\My Documents\programku\pos2\skin\CHIZH.SKN=No
+C:\My Documents\programku\pos2\skin\GALAXY.SKN=No
+C:\My Documents\programku\pos2\skin\GREEN.SKN=No
+C:\My Documents\programku\pos2\skin\Mac.skn=No
+C:\My Documents\programku\pos2\skin\Media.skn=No
+C:\My Documents\programku\pos2\skin\METALLIC.SKN=No
+C:\My Documents\programku\pos2\skin\Paper.skn=No
+C:\My Documents\programku\pos2\skin\PLASMOID.SKN=No
+C:\My Documents\programku\pos2\skin\TopSecret.skn=No
+C:\My Documents\programku\pos2\skin\VVV.SKN=No
+C:\My Documents\programku\pos2\skin\Web-II.skn=No
+C:\My Documents\programku\pos2\skin\WINAQUA2.SKN=No
+C:\My Documents\programku\pos2\skin\WINAQUA.SKN=No
+C:\My Documents\programku\pos2\skin\Zhelezo.skn=No
+C:\My Documents\programku\pos2\labarugi.rpt=No
+C:\My Documents\programku\pos2\ThemedButton.ctl=No
+G:\My Documents\programku\pos2\penjualan.exe=No
+G:\My Documents\programku\pos2\barang.rpt=No
+G:\My Documents\programku\pos2\pembelian.rpt=No
+G:\My Documents\programku\pos2\pemesanan.rpt=No
+G:\My Documents\programku\pos2\penjualan.rpt=No
+G:\My Documents\programku\pos2\Penjualan.mdb=No
+G:\My Documents\programku\pos2\retur_beli.rpt=No
+G:\My Documents\programku\pos2\supplier.rpt=No
+C:\Windows\System32\ACTSKIN4.oca=No
+G:\My Documents\programku\pos2\skin\B-Studio.skn=No
+G:\My Documents\programku\pos2\skin\CHIZH.SKN=No
+G:\My Documents\programku\pos2\skin\GALAXY.SKN=No
+G:\My Documents\programku\pos2\skin\GREEN.SKN=No
+G:\My Documents\programku\pos2\skin\Mac.skn=No
+G:\My Documents\programku\pos2\skin\Media.skn=No
+G:\My Documents\programku\pos2\skin\METALLIC.SKN=No
+G:\My Documents\programku\pos2\skin\Paper.skn=No
+G:\My Documents\programku\pos2\skin\PLASMOID.SKN=No
+G:\My Documents\programku\pos2\skin\TopSecret.skn=No
+G:\My Documents\programku\pos2\skin\VVV.SKN=No
+G:\My Documents\programku\pos2\skin\Web-II.skn=No
+G:\My Documents\programku\pos2\skin\WINAQUA2.SKN=No
+G:\My Documents\programku\pos2\skin\WINAQUA.SKN=No
+G:\My Documents\programku\pos2\skin\Zhelezo.skn=No
+G:\My Documents\programku\pos2\labarugi.rpt=No
+G:\My Documents\programku\pos2\ThemedButton.ctl=No
+H:\My Documents\programku\pos2(mysql)\penjualan.exe=No
+H:\My Documents\programku\pos2(mysql)\barang.rpt=No
+H:\My Documents\programku\pos2(mysql)\pembelian.rpt=No
+H:\My Documents\programku\pos2(mysql)\pemesanan.rpt=No
+H:\My Documents\programku\pos2(mysql)\penjualan.rpt=No
+H:\My Documents\programku\pos2(mysql)\Penjualan.mdb=No
+H:\My Documents\programku\pos2(mysql)\retur_beli.rpt=No
+H:\My Documents\programku\pos2(mysql)\supplier.rpt=No
+H:\My Documents\programku\pos2(mysql)\skin\B-Studio.skn=No
+H:\My Documents\programku\pos2(mysql)\skin\CHIZH.SKN=No
+H:\My Documents\programku\pos2(mysql)\skin\GALAXY.SKN=No
+H:\My Documents\programku\pos2(mysql)\skin\GREEN.SKN=No
+H:\My Documents\programku\pos2(mysql)\skin\Mac.skn=No
+H:\My Documents\programku\pos2(mysql)\skin\Media.skn=No
+H:\My Documents\programku\pos2(mysql)\skin\METALLIC.SKN=No
+H:\My Documents\programku\pos2(mysql)\skin\Paper.skn=No
+H:\My Documents\programku\pos2(mysql)\skin\PLASMOID.SKN=No
+H:\My Documents\programku\pos2(mysql)\skin\TopSecret.skn=No
+H:\My Documents\programku\pos2(mysql)\skin\VVV.SKN=No
+H:\My Documents\programku\pos2(mysql)\skin\Web-II.skn=No
+H:\My Documents\programku\pos2(mysql)\skin\WINAQUA2.SKN=No
+H:\My Documents\programku\pos2(mysql)\skin\WINAQUA.SKN=No
+H:\My Documents\programku\pos2(mysql)\skin\Zhelezo.skn=No
+H:\My Documents\programku\pos2(mysql)\labarugi.rpt=No
+H:\My Documents\programku\pos2(mysql)\ThemedButton.ctl=No
+
+[Package|POS2(mysql)|Distribution]
+Type=single
+Size=
+Title=Point of Sale
+
+[Package|POS2(mysql)|IconGroups]
+Group0=Point of Sale
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|POS2(mysql)|Point of Sale]
+Icon1=penjualan.exe
+Title1=Point of Sale
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|POS2(mysql)|Package]
+PackageFolder=H:\My Documents\programku\Dah jadi\POS2(mysql)
+ProjectFolder=H:\My Documents\programku\pos2(mysql)
+ServerSideCab=
+File1=H:\My Documents\programku\Dah jadi\POS2(mysql)\setup.exe
+File2=H:\My Documents\programku\Dah jadi\POS2(mysql)\Setup.Lst
+File3=H:\My Documents\programku\Dah jadi\POS2(mysql)\penjualan.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|POS2|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=H:\My Documents\programku\Dah jadi\POS2
+
+[Package|POS2|Configure DAO ISAMs]
+Applicable=No
+
+[Package|POS2|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|POS2|Files Found]
+barang.rpt=H:\My Documents\programku\pos2(mysql)\barang.rpt
+B-Studio.skn=H:\My Documents\programku\pos2(mysql)\skin\B-Studio.skn
+
+[Package|POS2|Files Released]
+u2LBAR.DLL=
+u25TOTAL.DLL=
+u25STORE.DLL=
+Crystal=
+crxf_PDF.DLL=
+crxf_RTF.DLL=
+exportmodeller.dll=
+crtslv.dll=
+SSCSDK32.DLL=
+
+[Package|POS2|Missing Dependency Information]
+C:\WINDOWS\system32\button.ocx=
+C:\WINDOWS\system32\vbskpro.ocx=
+C:\WINDOWS\system32\XPControls.ocx=
+C:\WINDOWS\system32\actrpt2.dll=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\WINDOWS\system32\ACTSKIN4.OCX=
+D:\WINDOWS\system32\button.ocx=
+D:\WINDOWS\system32\vbskpro.ocx=
+D:\WINDOWS\system32\XPControls.ocx=
+D:\WINDOWS\system32\actrpt2.dll=
+D:\WINDOWS\system32\ACTSKIN4.OCX=
+D:\WINDOWS\system32\uxtheme.dll=
+C:\Windows\System32\Crystl32.OCX=
+C:\Program Files\Common Files\System\ado\msado28.tlb=
+C:\Windows\System32\uxtheme.dll=
+C:\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7600.16385_none_ebf82fc36c758ad5\comctl32.dll=
+
+[Package|POS2|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\crpe32.dll=
+C:\WINDOWS\system32\Crystl32.OCX=
+C:\WINDOWS\system32\mscomct2.ocx=
+C:\WINDOWS\system32\MSDATGRD.OCX=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\TABCTL32.OCX=
+D:\WINDOWS\system32\Crystl32.OCX=
+D:\WINDOWS\system32\MSCOMCT2.OCX=
+D:\WINDOWS\system32\MSADODC.OCX=
+D:\WINDOWS\system32\Msdatgrd.ocx=
+D:\WINDOWS\system32\Mscomctl.ocx=
+D:\WINDOWS\system32\MSSTDFMT.DLL=
+D:\WINDOWS\system32\TABCTL32.OCX=
+C:\Windows\System32\MSSTDFMT.DLL=
+D:\WINDOWS\system32\crpe32.dll=
+
+[Package|POS2|Files Added]
+barang.rpt=
+pembelian.rpt=
+pemesanan.rpt=
+penjualan.rpt=
+penjualan.mdb=
+retur_beli.rpt=
+supplier.rpt=
+h:\my documents\programku\pos2\skin\actskin4.oca=
+h:\my documents\programku\pos2\skin\b-studio.skn=
+h:\my documents\programku\pos2\skin\chizh.skn=
+h:\my documents\programku\pos2\skin\galaxy.skn=
+h:\my documents\programku\pos2\skin\green.skn=
+h:\my documents\programku\pos2\skin\mac.skn=
+h:\my documents\programku\pos2\skin\media.skn=
+h:\my documents\programku\pos2\skin\metallic.skn=
+h:\my documents\programku\pos2\skin\paper.skn=
+h:\my documents\programku\pos2\skin\plasmoid.skn=
+h:\my documents\programku\pos2\skin\topsecret.skn=
+h:\my documents\programku\pos2\skin\vvv.skn=
+h:\my documents\programku\pos2\skin\web-ii.skn=
+h:\my documents\programku\pos2\skin\winaqua2.skn=
+h:\my documents\programku\pos2\skin\winaqua.skn=
+h:\my documents\programku\pos2\skin\zhelezo.skn=
+labarugi.rpt=
+themedbutton.ctl=
+
+[Package|POS2|Files Removed]
+
+[Package|POS2|Files In Project]
+D:\WINDOWS\system32\msvbvm60.dll=Yes
+D:\WINDOWS\system32\oleaut32.dll=Yes
+D:\WINDOWS\system32\olepro32.dll=Yes
+D:\WINDOWS\system32\asycfilt.dll=Yes
+D:\WINDOWS\system32\stdole2.tlb=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+D:\WINDOWS\system32\uxtheme.dll=Yes
+D:\WINDOWS\system32\ACTSKIN4.OCX=Yes
+D:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+D:\WINDOWS\system32\actrpt2.dll=Yes
+D:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+D:\WINDOWS\system32\tabctl32.ocx=Yes
+D:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+D:\WINDOWS\system32\MSDATGRD.OCX=Yes
+D:\WINDOWS\system32\MSADODC.OCX=Yes
+D:\WINDOWS\system32\XPControls.ocx=Yes
+D:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+D:\WINDOWS\system32\vbskpro.ocx=Yes
+D:\WINDOWS\system32\crystl32.ocx=Yes
+D:\WINDOWS\system32\crpe32.dll=Yes
+D:\WINDOWS\system32\implode.dll=Yes
+D:\WINDOWS\system32\crpaig32.dll=Yes
+D:\WINDOWS\system32\msvcrt.dll=Yes
+D:\WINDOWS\system32\mfc42.dll=Yes
+D:\WINDOWS\Crystal\crxlat32.dll=Yes
+D:\WINDOWS\Crystal\p2bbde.dll=Yes
+D:\WINDOWS\system32\p2bbnd.dll=Yes
+D:\WINDOWS\system32\p2bdao.dll=Yes
+D:\WINDOWS\Crystal\p2bxbse.dll=Yes
+D:\WINDOWS\system32\p2ctdao.dll=Yes
+D:\WINDOWS\system32\p2irdao.dll=Yes
+D:\WINDOWS\Crystal\p2sifmx.dll=Yes
+D:\WINDOWS\system32\p2smon.dll=Yes
+D:\WINDOWS\system32\p2sodbc.dll=Yes
+D:\WINDOWS\Crystal\p2sora7.dll=Yes
+D:\WINDOWS\Crystal\p2ssql.dll=Yes
+D:\WINDOWS\Crystal\p2ssyb10.dll=Yes
+D:\WINDOWS\Crystal\p2soledb.dll=Yes
+D:\WINDOWS\Crystal\u2ddisk.dll=Yes
+D:\WINDOWS\Crystal\u2dmapi.dll=Yes
+D:\WINDOWS\Crystal\u2dnotes.dll=Yes
+D:\WINDOWS\Crystal\u2dpost.dll=Yes
+D:\WINDOWS\Crystal\u2dvim.dll=Yes
+D:\WINDOWS\Crystal\u2dapp.dll=Yes
+D:\WINDOWS\Crystal\u2fcr.dll=Yes
+D:\WINDOWS\Crystal\u2fhtml.dll=Yes
+D:\WINDOWS\Crystal\u2fodbc.dll=Yes
+D:\WINDOWS\Crystal\u2frec.dll=Yes
+D:\WINDOWS\Crystal\u2frtf.dll=Yes
+D:\WINDOWS\Crystal\u2fsepv.dll=Yes
+D:\WINDOWS\Crystal\u2ftext.dll=Yes
+D:\WINDOWS\Crystal\u2fwks.dll=Yes
+D:\WINDOWS\Crystal\u2fwordw.dll=Yes
+D:\WINDOWS\Crystal\u2fxls.dll=Yes
+D:\WINDOWS\Crystal\u25dts.dll=Yes
+D:\WINDOWS\Crystal\u2l2000.dll=Yes
+D:\WINDOWS\Crystal\u2lcom.dll=Yes
+D:\WINDOWS\Crystal\u2ldts.dll=Yes
+D:\WINDOWS\Crystal\u2lsamp1.dll=Yes
+D:\WINDOWS\Crystal\u252000.dll=Yes
+D:\WINDOWS\system32\DBLIST32.OCX=Yes
+D:\WINDOWS\system32\button.ocx=Yes
+D:\WINDOWS\system32\MSMASK32.OCX=Yes
+D:\WINDOWS\system32\MSCOMM32.OCX=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+D:\WINDOWS\system32\VB6STKIT.DLL=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+H:\My Documents\programku\pos2(mysql)\barang.rpt=Yes
+H:\My Documents\programku\pos2\penjualan.exe=Yes
+\program files\seagate software\sschart\SSCSDK32.DLL=Yes
+H:\My Documents\programku\pos2\pembelian.rpt=Yes
+H:\My Documents\programku\pos2\pemesanan.rpt=Yes
+H:\My Documents\programku\pos2\penjualan.rpt=Yes
+H:\My Documents\programku\pos2\Penjualan.mdb=Yes
+H:\My Documents\programku\pos2\retur_beli.rpt=Yes
+H:\My Documents\programku\pos2\supplier.rpt=Yes
+H:\My Documents\programku\pos2\skin\ACTSKIN4.OCA=Yes
+H:\My Documents\programku\pos2\skin\B-Studio.skn=Yes
+H:\My Documents\programku\pos2\skin\CHIZH.SKN=Yes
+H:\My Documents\programku\pos2\skin\GALAXY.SKN=Yes
+H:\My Documents\programku\pos2\skin\GREEN.SKN=Yes
+H:\My Documents\programku\pos2\skin\Mac.skn=Yes
+H:\My Documents\programku\pos2\skin\Media.skn=Yes
+H:\My Documents\programku\pos2\skin\METALLIC.SKN=Yes
+H:\My Documents\programku\pos2\skin\Paper.skn=Yes
+H:\My Documents\programku\pos2\skin\PLASMOID.SKN=Yes
+H:\My Documents\programku\pos2\skin\TopSecret.skn=Yes
+H:\My Documents\programku\pos2\skin\VVV.SKN=Yes
+H:\My Documents\programku\pos2\skin\Web-II.skn=Yes
+H:\My Documents\programku\pos2\skin\WINAQUA2.SKN=Yes
+H:\My Documents\programku\pos2\skin\WINAQUA.SKN=Yes
+H:\My Documents\programku\pos2\skin\Zhelezo.skn=Yes
+H:\My Documents\programku\pos2\labarugi.rpt=Yes
+H:\My Documents\programku\pos2\ThemedButton.ctl=Yes
+
+[Package|POS2|Configure Registry Files]
+Applicable=No
+
+[Package|POS2|Configure Remote Servers]
+Applicable=No
+
+[Package|POS2|Install Locations]
+D:\My Documents\programku\POS\penjualan.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\ACTSKIN4.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\actrpt2.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\system32\XPControls.ocx=$(WinSysPath)
+C:\WINDOWS\system32\mscomct2.ocx=$(WinSysPath)
+C:\WINDOWS\system32\vbskpro.ocx=$(WinSysPath)
+C:\WINDOWS\system32\Crystl32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\crpe32.dll=$(WinSysPath)
+C:\WINDOWS\system32\Implode.dll=$(AppPath)
+C:\WINDOWS\system32\crpaig32.dll=$(WinSysPath)
+C:\WINDOWS\system32\msvcrt.dll=$(WinSysPath)
+C:\WINDOWS\system32\mfc42.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\Crxlat32.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2bbde.dll=$(WinSysPath)
+C:\WINDOWS\system32\P2bbnd.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2bdao.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2bxbse.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2ctdao.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2irdao.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2sifmx.dll=$(WinSysPath)
+C:\WINDOWS\system32\P2smon.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2sodbc.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2sora7.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2ssql.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2ssyb10.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2soledb.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2ddisk.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dmapi.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dnotes.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dpost.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dvim.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dapp.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fcr.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fhtml.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fodbc.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2frec.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2frtf.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fsepv.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2ftext.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fwks.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fwordw.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fxls.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u25dts.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2l2000.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2lcom.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2ldts.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2lsamp1.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u252000.dll=$(WinSysPath)
+\program files\seagate software\sschart\SSCSDK32.DLL=$(WinSysPath)
+C:\WINDOWS\system32\DBLIST32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\button.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMM32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\My Documents\programku\POS\barang.rpt=$(AppPath)
+D:\My Documents\programku\POS\pembelian.rpt=$(AppPath)
+D:\My Documents\programku\POS\pemesanan.rpt=$(AppPath)
+D:\My Documents\programku\POS\penjualan.rpt=$(AppPath)
+D:\My Documents\programku\POS\Penjualan.mdb=$(AppPath)
+D:\My Documents\programku\POS\retur_beli.rpt=$(AppPath)
+D:\My Documents\programku\POS\supplier.rpt=$(AppPath)
+D:\My Documents\programku\POS\skin\ACTSKIN4.OCA=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\B-Studio.skn=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\CHIZH.SKN=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\GALAXY.SKN=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\GREEN.SKN=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\Mac.skn=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\Media.skn=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\METALLIC.SKN=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\Paper.skn=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\PLASMOID.SKN=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\TopSecret.skn=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\VVV.SKN=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\Web-II.skn=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\WINAQUA2.SKN=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\WINAQUA.SKN=$(AppPath)\skin
+D:\My Documents\programku\POS\skin\Zhelezo.skn=$(AppPath)\skin
+C:\My Documents\programku\pos2\penjualan.exe=$(AppPath)
+D:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+D:\WINDOWS\system32\uxtheme.dll=$(WinSysPath)
+D:\WINDOWS\system32\ACTSKIN4.OCX=$(WinSysPath)
+D:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+D:\WINDOWS\system32\actrpt2.dll=$(WinSysPath)
+D:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+D:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+D:\WINDOWS\system32\Mscomctl.ocx=$(WinSysPath)
+D:\WINDOWS\system32\Msdatgrd.ocx=$(WinSysPath)
+D:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+D:\WINDOWS\system32\XPControls.ocx=$(WinSysPath)
+D:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+D:\WINDOWS\system32\vbskpro.ocx=$(WinSysPath)
+D:\WINDOWS\system32\Crystl32.OCX=$(WinSysPath)
+D:\WINDOWS\system32\CRPE32.DLL=$(WinSysPath)
+D:\WINDOWS\system32\implode.dll=$(AppPath)
+D:\WINDOWS\system32\CRPAIG80.DLL=$(WinSysPath)
+D:\WINDOWS\system32\msvcrt.dll=$(WinSysPath)
+D:\WINDOWS\system32\mfc42.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\crxlat32.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\p2bbde.dll=$(WinSysPath)
+D:\WINDOWS\system32\p2bbnd.dll=$(WinSysPath)
+D:\WINDOWS\system32\p2bdao.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\p2bxbse.dll=$(WinSysPath)
+D:\WINDOWS\system32\p2ctdao.dll=$(WinSysPath)
+D:\WINDOWS\system32\p2irdao.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\p2sifmx.dll=$(WinSysPath)
+D:\WINDOWS\system32\p2smon.dll=$(WinSysPath)
+D:\WINDOWS\system32\p2sodbc.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\p2sora7.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\p2ssql.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\p2ssyb10.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\p2soledb.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2ddisk.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2dmapi.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2dnotes.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2dpost.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2dvim.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2dapp.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2fcr.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2fhtml.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2fodbc.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2frec.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2fsepv.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2ftext.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2fwks.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2fwordw.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2fxls.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u25dts.dll=$(AppPath)
+D:\WINDOWS\Crystal\u2l2000.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2lcom.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2ldts.dll=$(AppPath)
+D:\WINDOWS\Crystal\u2lsamp1.dll=$(AppPath)
+D:\WINDOWS\Crystal\u252000.dll=$(WinSysPath)
+C:\My Documents\programku\pos2\SSCSDK80.DLL=$(WinSysPath)
+D:\WINDOWS\system32\DBLIST32.OCX=$(WinSysPath)
+D:\WINDOWS\system32\button.ocx=$(WinSysPath)
+D:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+D:\WINDOWS\system32\MSCOMM32.OCX=$(WinSysPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+D:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\My Documents\programku\pos2\barang.rpt=$(AppPath)
+C:\My Documents\programku\pos2\pembelian.rpt=$(AppPath)
+C:\My Documents\programku\pos2\pemesanan.rpt=$(AppPath)
+C:\My Documents\programku\pos2\penjualan.rpt=$(AppPath)
+C:\My Documents\programku\pos2\Penjualan.mdb=$(AppPath)
+C:\My Documents\programku\pos2\retur_beli.rpt=$(AppPath)
+C:\My Documents\programku\pos2\supplier.rpt=$(AppPath)
+D:\WINDOWS\system32\ACTSKIN4.oca=$(AppPath)
+C:\My Documents\programku\pos2\skin\B-Studio.skn=$(AppPath)
+C:\My Documents\programku\pos2\skin\CHIZH.SKN=$(AppPath)
+C:\My Documents\programku\pos2\skin\GALAXY.SKN=$(AppPath)
+C:\My Documents\programku\pos2\skin\GREEN.SKN=$(AppPath)
+C:\My Documents\programku\pos2\skin\Mac.skn=$(AppPath)
+C:\My Documents\programku\pos2\skin\Media.skn=$(AppPath)
+C:\My Documents\programku\pos2\skin\METALLIC.SKN=$(AppPath)
+C:\My Documents\programku\pos2\skin\Paper.skn=$(AppPath)
+C:\My Documents\programku\pos2\skin\PLASMOID.SKN=$(AppPath)
+C:\My Documents\programku\pos2\skin\TopSecret.skn=$(AppPath)
+C:\My Documents\programku\pos2\skin\VVV.SKN=$(AppPath)
+C:\My Documents\programku\pos2\skin\Web-II.skn=$(AppPath)
+C:\My Documents\programku\pos2\skin\WINAQUA2.SKN=$(AppPath)
+C:\My Documents\programku\pos2\skin\WINAQUA.SKN=$(AppPath)
+C:\My Documents\programku\pos2\skin\Zhelezo.skn=$(AppPath)
+C:\My Documents\programku\pos2\labarugi.rpt=$(AppPath)
+C:\My Documents\programku\pos2\ThemedButton.ctl=$(AppPath)
+D:\WINDOWS\Crystal\crxf_rtf.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\crxf_pdf.dll=$(WinSysPath)
+D:\WINDOWS\system32\SSCSDK80.DLL=$(WinSysPath)
+G:\My Documents\programku\pos2\penjualan.exe=$(AppPath)
+C:\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7600.16385_none_ebf82fc36c758ad5\comctl32.dll=$(WinSysPath)
+C:\Windows\System32\uxtheme.dll=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado28.tlb=$(WinSysPath)
+G:\My Documents\programku\pos2\barang.rpt=$(AppPath)
+G:\My Documents\programku\pos2\pembelian.rpt=$(AppPath)
+G:\My Documents\programku\pos2\pemesanan.rpt=$(AppPath)
+G:\My Documents\programku\pos2\penjualan.rpt=$(AppPath)
+G:\My Documents\programku\pos2\Penjualan.mdb=$(AppPath)
+G:\My Documents\programku\pos2\retur_beli.rpt=$(AppPath)
+G:\My Documents\programku\pos2\supplier.rpt=$(AppPath)
+C:\Windows\System32\ACTSKIN4.oca=$(AppPath)
+G:\My Documents\programku\pos2\skin\B-Studio.skn=$(AppPath)
+G:\My Documents\programku\pos2\skin\CHIZH.SKN=$(AppPath)
+G:\My Documents\programku\pos2\skin\GALAXY.SKN=$(AppPath)
+G:\My Documents\programku\pos2\skin\GREEN.SKN=$(AppPath)
+G:\My Documents\programku\pos2\skin\Mac.skn=$(AppPath)
+G:\My Documents\programku\pos2\skin\Media.skn=$(AppPath)
+G:\My Documents\programku\pos2\skin\METALLIC.SKN=$(AppPath)
+G:\My Documents\programku\pos2\skin\Paper.skn=$(AppPath)
+G:\My Documents\programku\pos2\skin\PLASMOID.SKN=$(AppPath)
+G:\My Documents\programku\pos2\skin\TopSecret.skn=$(AppPath)
+G:\My Documents\programku\pos2\skin\VVV.SKN=$(AppPath)
+G:\My Documents\programku\pos2\skin\Web-II.skn=$(AppPath)
+G:\My Documents\programku\pos2\skin\WINAQUA2.SKN=$(AppPath)
+G:\My Documents\programku\pos2\skin\WINAQUA.SKN=$(AppPath)
+G:\My Documents\programku\pos2\skin\Zhelezo.skn=$(AppPath)
+G:\My Documents\programku\pos2\labarugi.rpt=$(AppPath)
+G:\My Documents\programku\pos2\ThemedButton.ctl=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\penjualan.exe=$(AppPath)
+D:\WINDOWS\system32\crpaig32.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2frtf.dll=$(WinSysPath)
+H:\My Documents\programku\pos2(mysql)\barang.rpt=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\pembelian.rpt=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\pemesanan.rpt=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\penjualan.rpt=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\Penjualan.mdb=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\retur_beli.rpt=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\supplier.rpt=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\skin\B-Studio.skn=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\skin\CHIZH.SKN=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\skin\GALAXY.SKN=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\skin\GREEN.SKN=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\skin\Mac.skn=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\skin\Media.skn=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\skin\METALLIC.SKN=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\skin\Paper.skn=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\skin\PLASMOID.SKN=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\skin\TopSecret.skn=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\skin\VVV.SKN=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\skin\Web-II.skn=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\skin\WINAQUA2.SKN=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\skin\WINAQUA.SKN=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\skin\Zhelezo.skn=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\labarugi.rpt=$(AppPath)
+H:\My Documents\programku\pos2(mysql)\ThemedButton.ctl=$(AppPath)
+H:\My Documents\programku\pos2\penjualan.exe=$(AppPath)
+H:\My Documents\programku\pos2\pembelian.rpt=$(AppPath)
+H:\My Documents\programku\pos2\pemesanan.rpt=$(AppPath)
+H:\My Documents\programku\pos2\penjualan.rpt=$(AppPath)
+H:\My Documents\programku\pos2\Penjualan.mdb=$(AppPath)
+H:\My Documents\programku\pos2\retur_beli.rpt=$(AppPath)
+H:\My Documents\programku\pos2\supplier.rpt=$(AppPath)
+H:\My Documents\programku\pos2\skin\ACTSKIN4.OCA=$(AppPath)
+H:\My Documents\programku\pos2\skin\B-Studio.skn=$(AppPath)
+H:\My Documents\programku\pos2\skin\CHIZH.SKN=$(AppPath)
+H:\My Documents\programku\pos2\skin\GALAXY.SKN=$(AppPath)
+H:\My Documents\programku\pos2\skin\GREEN.SKN=$(AppPath)
+H:\My Documents\programku\pos2\skin\Mac.skn=$(AppPath)
+H:\My Documents\programku\pos2\skin\Media.skn=$(AppPath)
+H:\My Documents\programku\pos2\skin\METALLIC.SKN=$(AppPath)
+H:\My Documents\programku\pos2\skin\Paper.skn=$(AppPath)
+H:\My Documents\programku\pos2\skin\PLASMOID.SKN=$(AppPath)
+H:\My Documents\programku\pos2\skin\TopSecret.skn=$(AppPath)
+H:\My Documents\programku\pos2\skin\VVV.SKN=$(AppPath)
+H:\My Documents\programku\pos2\skin\Web-II.skn=$(AppPath)
+H:\My Documents\programku\pos2\skin\WINAQUA2.SKN=$(AppPath)
+H:\My Documents\programku\pos2\skin\WINAQUA.SKN=$(AppPath)
+H:\My Documents\programku\pos2\skin\Zhelezo.skn=$(AppPath)
+H:\My Documents\programku\pos2\labarugi.rpt=$(AppPath)
+H:\My Documents\programku\pos2\ThemedButton.ctl=$(AppPath)
+
+[Package|POS2|Configure Shared Files]
+Applicable=Yes
+D:\My Documents\programku\POS\penjualan.exe=No
+C:\WINDOWS\system32\Implode.dll=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+D:\My Documents\programku\POS\barang.rpt=No
+D:\My Documents\programku\POS\pembelian.rpt=No
+D:\My Documents\programku\POS\pemesanan.rpt=No
+D:\My Documents\programku\POS\penjualan.rpt=No
+D:\My Documents\programku\POS\Penjualan.mdb=No
+D:\My Documents\programku\POS\retur_beli.rpt=No
+D:\My Documents\programku\POS\supplier.rpt=No
+D:\My Documents\programku\POS\skin\ACTSKIN4.OCA=No
+D:\My Documents\programku\POS\skin\B-Studio.skn=No
+D:\My Documents\programku\POS\skin\CHIZH.SKN=No
+D:\My Documents\programku\POS\skin\GALAXY.SKN=No
+D:\My Documents\programku\POS\skin\GREEN.SKN=No
+D:\My Documents\programku\POS\skin\Mac.skn=No
+D:\My Documents\programku\POS\skin\Media.skn=No
+D:\My Documents\programku\POS\skin\METALLIC.SKN=No
+D:\My Documents\programku\POS\skin\Paper.skn=No
+D:\My Documents\programku\POS\skin\PLASMOID.SKN=No
+D:\My Documents\programku\POS\skin\TopSecret.skn=No
+D:\My Documents\programku\POS\skin\VVV.SKN=No
+D:\My Documents\programku\POS\skin\Web-II.skn=No
+D:\My Documents\programku\POS\skin\WINAQUA2.SKN=No
+D:\My Documents\programku\POS\skin\WINAQUA.SKN=No
+D:\My Documents\programku\POS\skin\Zhelezo.skn=No
+C:\My Documents\programku\pos2\penjualan.exe=No
+D:\WINDOWS\system32\implode.dll=No
+D:\WINDOWS\Crystal\u25dts.dll=No
+D:\WINDOWS\Crystal\u2ldts.dll=No
+D:\WINDOWS\Crystal\u2lsamp1.dll=No
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\My Documents\programku\pos2\barang.rpt=No
+C:\My Documents\programku\pos2\pembelian.rpt=No
+C:\My Documents\programku\pos2\pemesanan.rpt=No
+C:\My Documents\programku\pos2\penjualan.rpt=No
+C:\My Documents\programku\pos2\Penjualan.mdb=No
+C:\My Documents\programku\pos2\retur_beli.rpt=No
+C:\My Documents\programku\pos2\supplier.rpt=No
+D:\WINDOWS\system32\ACTSKIN4.oca=No
+C:\My Documents\programku\pos2\skin\B-Studio.skn=No
+C:\My Documents\programku\pos2\skin\CHIZH.SKN=No
+C:\My Documents\programku\pos2\skin\GALAXY.SKN=No
+C:\My Documents\programku\pos2\skin\GREEN.SKN=No
+C:\My Documents\programku\pos2\skin\Mac.skn=No
+C:\My Documents\programku\pos2\skin\Media.skn=No
+C:\My Documents\programku\pos2\skin\METALLIC.SKN=No
+C:\My Documents\programku\pos2\skin\Paper.skn=No
+C:\My Documents\programku\pos2\skin\PLASMOID.SKN=No
+C:\My Documents\programku\pos2\skin\TopSecret.skn=No
+C:\My Documents\programku\pos2\skin\VVV.SKN=No
+C:\My Documents\programku\pos2\skin\Web-II.skn=No
+C:\My Documents\programku\pos2\skin\WINAQUA2.SKN=No
+C:\My Documents\programku\pos2\skin\WINAQUA.SKN=No
+C:\My Documents\programku\pos2\skin\Zhelezo.skn=No
+C:\My Documents\programku\pos2\labarugi.rpt=No
+C:\My Documents\programku\pos2\ThemedButton.ctl=No
+G:\My Documents\programku\pos2\penjualan.exe=No
+G:\My Documents\programku\pos2\barang.rpt=No
+G:\My Documents\programku\pos2\pembelian.rpt=No
+G:\My Documents\programku\pos2\pemesanan.rpt=No
+G:\My Documents\programku\pos2\penjualan.rpt=No
+G:\My Documents\programku\pos2\Penjualan.mdb=No
+G:\My Documents\programku\pos2\retur_beli.rpt=No
+G:\My Documents\programku\pos2\supplier.rpt=No
+C:\Windows\System32\ACTSKIN4.oca=No
+G:\My Documents\programku\pos2\skin\B-Studio.skn=No
+G:\My Documents\programku\pos2\skin\CHIZH.SKN=No
+G:\My Documents\programku\pos2\skin\GALAXY.SKN=No
+G:\My Documents\programku\pos2\skin\GREEN.SKN=No
+G:\My Documents\programku\pos2\skin\Mac.skn=No
+G:\My Documents\programku\pos2\skin\Media.skn=No
+G:\My Documents\programku\pos2\skin\METALLIC.SKN=No
+G:\My Documents\programku\pos2\skin\Paper.skn=No
+G:\My Documents\programku\pos2\skin\PLASMOID.SKN=No
+G:\My Documents\programku\pos2\skin\TopSecret.skn=No
+G:\My Documents\programku\pos2\skin\VVV.SKN=No
+G:\My Documents\programku\pos2\skin\Web-II.skn=No
+G:\My Documents\programku\pos2\skin\WINAQUA2.SKN=No
+G:\My Documents\programku\pos2\skin\WINAQUA.SKN=No
+G:\My Documents\programku\pos2\skin\Zhelezo.skn=No
+G:\My Documents\programku\pos2\labarugi.rpt=No
+G:\My Documents\programku\pos2\ThemedButton.ctl=No
+H:\My Documents\programku\pos2(mysql)\penjualan.exe=No
+H:\My Documents\programku\pos2(mysql)\barang.rpt=No
+H:\My Documents\programku\pos2(mysql)\pembelian.rpt=No
+H:\My Documents\programku\pos2(mysql)\pemesanan.rpt=No
+H:\My Documents\programku\pos2(mysql)\penjualan.rpt=No
+H:\My Documents\programku\pos2(mysql)\Penjualan.mdb=No
+H:\My Documents\programku\pos2(mysql)\retur_beli.rpt=No
+H:\My Documents\programku\pos2(mysql)\supplier.rpt=No
+H:\My Documents\programku\pos2(mysql)\skin\B-Studio.skn=No
+H:\My Documents\programku\pos2(mysql)\skin\CHIZH.SKN=No
+H:\My Documents\programku\pos2(mysql)\skin\GALAXY.SKN=No
+H:\My Documents\programku\pos2(mysql)\skin\GREEN.SKN=No
+H:\My Documents\programku\pos2(mysql)\skin\Mac.skn=No
+H:\My Documents\programku\pos2(mysql)\skin\Media.skn=No
+H:\My Documents\programku\pos2(mysql)\skin\METALLIC.SKN=No
+H:\My Documents\programku\pos2(mysql)\skin\Paper.skn=No
+H:\My Documents\programku\pos2(mysql)\skin\PLASMOID.SKN=No
+H:\My Documents\programku\pos2(mysql)\skin\TopSecret.skn=No
+H:\My Documents\programku\pos2(mysql)\skin\VVV.SKN=No
+H:\My Documents\programku\pos2(mysql)\skin\Web-II.skn=No
+H:\My Documents\programku\pos2(mysql)\skin\WINAQUA2.SKN=No
+H:\My Documents\programku\pos2(mysql)\skin\WINAQUA.SKN=No
+H:\My Documents\programku\pos2(mysql)\skin\Zhelezo.skn=No
+H:\My Documents\programku\pos2(mysql)\labarugi.rpt=No
+H:\My Documents\programku\pos2(mysql)\ThemedButton.ctl=No
+H:\My Documents\programku\pos2\penjualan.exe=No
+H:\My Documents\programku\pos2\pembelian.rpt=No
+H:\My Documents\programku\pos2\pemesanan.rpt=No
+H:\My Documents\programku\pos2\penjualan.rpt=No
+H:\My Documents\programku\pos2\Penjualan.mdb=No
+H:\My Documents\programku\pos2\retur_beli.rpt=No
+H:\My Documents\programku\pos2\supplier.rpt=No
+H:\My Documents\programku\pos2\skin\ACTSKIN4.OCA=No
+H:\My Documents\programku\pos2\skin\B-Studio.skn=No
+H:\My Documents\programku\pos2\skin\CHIZH.SKN=No
+H:\My Documents\programku\pos2\skin\GALAXY.SKN=No
+H:\My Documents\programku\pos2\skin\GREEN.SKN=No
+H:\My Documents\programku\pos2\skin\Mac.skn=No
+H:\My Documents\programku\pos2\skin\Media.skn=No
+H:\My Documents\programku\pos2\skin\METALLIC.SKN=No
+H:\My Documents\programku\pos2\skin\Paper.skn=No
+H:\My Documents\programku\pos2\skin\PLASMOID.SKN=No
+H:\My Documents\programku\pos2\skin\TopSecret.skn=No
+H:\My Documents\programku\pos2\skin\VVV.SKN=No
+H:\My Documents\programku\pos2\skin\Web-II.skn=No
+H:\My Documents\programku\pos2\skin\WINAQUA2.SKN=No
+H:\My Documents\programku\pos2\skin\WINAQUA.SKN=No
+H:\My Documents\programku\pos2\skin\Zhelezo.skn=No
+H:\My Documents\programku\pos2\labarugi.rpt=No
+H:\My Documents\programku\pos2\ThemedButton.ctl=No
+
+[Package|POS2|Distribution]
+Type=single
+Size=
+Title=Point of Sale
+
+[Package|POS2|Package]
+PackageFolder=H:\My Documents\programku\Dah jadi\POS2(mysql)
+ProjectFolder=H:\My Documents\programku\pos2(mysql)
+ServerSideCab=
+File1=H:\My Documents\programku\Dah jadi\POS2(mysql)\setup.exe
+File2=H:\My Documents\programku\Dah jadi\POS2(mysql)\Setup.Lst
+File3=H:\My Documents\programku\Dah jadi\POS2(mysql)\penjualan.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|POS2|IconGroups]
+Group0=Point of Sale
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|POS2|Point of Sale]
+Icon1=penjualan.exe
+Title1=Point of Sale
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|POSBENER|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=H:\My Documents\programku\Dah jadi\POS2
+
+[Package|POSBENER|Configure DAO ISAMs]
+Applicable=No
+
+[Package|POSBENER|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|POSBENER|Files Found]
+
+[Package|POSBENER|Files Released]
+u2LBAR.DLL=
+u25TOTAL.DLL=
+u25STORE.DLL=
+Crystal=
+
+[Package|POSBENER|Missing Dependency Information]
+D:\WINDOWS\system32\button.ocx=
+D:\WINDOWS\system32\vbskpro.ocx=
+D:\WINDOWS\system32\XPControls.ocx=
+D:\WINDOWS\system32\actrpt2.dll=
+D:\WINDOWS\system32\ACTSKIN4.OCX=
+D:\WINDOWS\system32\uxtheme.dll=
+
+[Package|POSBENER|Out-of-Date Dependency Information]
+D:\WINDOWS\system32\crpe32.dll=
+D:\WINDOWS\system32\Crystl32.OCX=
+D:\WINDOWS\system32\mscomct2.ocx=
+D:\WINDOWS\system32\MSDATGRD.OCX=
+D:\WINDOWS\system32\mscomctl.ocx=
+D:\WINDOWS\system32\MSSTDFMT.DLL=
+
+[Package|POSBENER|Files Added]
+h:\my documents\programku\pos2\barang.rpt=
+h:\my documents\programku\pos2\labarugi.rpt=
+h:\my documents\programku\pos2\pembelian.rpt=
+h:\my documents\programku\pos2\pemesanan.rpt=
+h:\my documents\programku\pos2\penjualan.rpt=
+h:\my documents\programku\pos2\penjualan.mdb=
+h:\my documents\programku\pos2\retur_beli.rpt=
+h:\my documents\programku\pos2\supplier.rpt=
+h:\my documents\programku\pos2\skin\winaqua.skn=
+h:\my documents\programku\pos2\skin\mac.skn=
+h:\my documents\programku\pos2\skin\b-studio.skn=
+h:\my documents\programku\pos2\skin\green.skn=
+h:\my documents\programku\pos2\skin\web-ii.skn=
+h:\my documents\programku\pos2\skin\zhelezo.skn=
+H:\My Documents\programku\pos2\bayar_hutang.rpt=
+H:\My Documents\programku\pos2\bayar_piutang.rpt=
+H:\My Documents\programku\pos2\detil_jual.rpt=
+H:\My Documents\programku\pos2\hutang.rpt=
+H:\My Documents\programku\pos2\pihutang.rpt=
+H:\My Documents\programku\pos2\retur_jual.rpt=
+H:\My Documents\programku\pos2\stok.rpt=
+
+[Package|POSBENER|Files Removed]
+
+[Package|POSBENER|Files In Project]
+D:\WINDOWS\system32\msvbvm60.dll=Yes
+D:\WINDOWS\system32\oleaut32.dll=Yes
+D:\WINDOWS\system32\olepro32.dll=Yes
+D:\WINDOWS\system32\asycfilt.dll=Yes
+D:\WINDOWS\system32\stdole2.tlb=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+D:\WINDOWS\system32\uxtheme.dll=Yes
+D:\WINDOWS\system32\ACTSKIN4.OCX=Yes
+D:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+D:\WINDOWS\system32\actrpt2.dll=Yes
+D:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+D:\WINDOWS\system32\TABCTL32.OCX=Yes
+D:\WINDOWS\system32\mscomctl.ocx=Yes
+D:\WINDOWS\system32\MSDATGRD.OCX=Yes
+D:\WINDOWS\system32\MSADODC.OCX=Yes
+D:\WINDOWS\system32\XPControls.ocx=Yes
+D:\WINDOWS\system32\mscomct2.ocx=Yes
+D:\WINDOWS\system32\vbskpro.ocx=Yes
+D:\WINDOWS\system32\Crystl32.OCX=Yes
+D:\WINDOWS\system32\crpe32.dll=Yes
+D:\WINDOWS\system32\implode.dll=Yes
+D:\WINDOWS\system32\crpaig32.dll=Yes
+D:\WINDOWS\system32\msvcrt.dll=Yes
+D:\WINDOWS\system32\mfc42.dll=Yes
+D:\WINDOWS\Crystal\Crxlat32.dll=Yes
+D:\WINDOWS\Crystal\p2bbde.dll=Yes
+D:\WINDOWS\system32\P2bbnd.dll=Yes
+D:\WINDOWS\system32\P2BDAO.DLL=Yes
+D:\WINDOWS\Crystal\p2bxbse.dll=Yes
+D:\WINDOWS\system32\P2CTDAO.DLL=Yes
+D:\WINDOWS\system32\P2IRDAO.DLL=Yes
+D:\WINDOWS\Crystal\p2sifmx.dll=Yes
+D:\WINDOWS\system32\p2smon.dll=Yes
+D:\WINDOWS\system32\p2sodbc.dll=Yes
+D:\WINDOWS\Crystal\p2sora7.dll=Yes
+D:\WINDOWS\Crystal\p2ssql.dll=Yes
+D:\WINDOWS\Crystal\p2ssyb10.dll=Yes
+D:\WINDOWS\Crystal\p2soledb.dll=Yes
+D:\WINDOWS\Crystal\u2ddisk.dll=Yes
+D:\WINDOWS\Crystal\u2dmapi.dll=Yes
+D:\WINDOWS\Crystal\u2dnotes.dll=Yes
+D:\WINDOWS\Crystal\u2dpost.dll=Yes
+D:\WINDOWS\Crystal\u2dvim.dll=Yes
+D:\WINDOWS\Crystal\u2dapp.dll=Yes
+D:\WINDOWS\Crystal\u2fcr.dll=Yes
+D:\WINDOWS\Crystal\u2fhtml.dll=Yes
+D:\WINDOWS\Crystal\u2fodbc.dll=Yes
+D:\WINDOWS\Crystal\u2frec.dll=Yes
+D:\WINDOWS\Crystal\u2frtf.dll=Yes
+D:\WINDOWS\Crystal\u2fsepv.dll=Yes
+D:\WINDOWS\Crystal\u2ftext.dll=Yes
+D:\WINDOWS\Crystal\u2fwks.dll=Yes
+D:\WINDOWS\Crystal\u2fwordw.dll=Yes
+D:\WINDOWS\Crystal\u2fxls.dll=Yes
+D:\WINDOWS\Crystal\u25dts.dll=Yes
+D:\WINDOWS\Crystal\u2l2000.dll=Yes
+D:\WINDOWS\Crystal\u2lcom.dll=Yes
+D:\WINDOWS\Crystal\u2ldts.dll=Yes
+D:\WINDOWS\Crystal\u2lsamp1.dll=Yes
+D:\WINDOWS\Crystal\u252000.dll=Yes
+\program files\seagate software\sschart\SSCSDK32.DLL=Yes
+D:\WINDOWS\system32\DBLIST32.OCX=Yes
+D:\WINDOWS\system32\button.ocx=Yes
+D:\WINDOWS\system32\MSMASK32.OCX=Yes
+D:\WINDOWS\system32\MSCOMM32.OCX=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+D:\WINDOWS\system32\VB6STKIT.DLL=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+H:\My Documents\programku\pos2\barang.rpt=Yes
+H:\My Documents\programku\pos2\labarugi.rpt=Yes
+H:\My Documents\programku\pos2\pembelian.rpt=Yes
+H:\My Documents\programku\pos2\pemesanan.rpt=Yes
+H:\My Documents\programku\pos2\penjualan.rpt=Yes
+H:\My Documents\programku\pos2\Penjualan.mdb=Yes
+H:\My Documents\programku\pos2\retur_beli.rpt=Yes
+H:\My Documents\programku\pos2\supplier.rpt=Yes
+H:\My Documents\programku\pos2\skin\WINAQUA.SKN=Yes
+H:\My Documents\programku\pos2\skin\Mac.skn=Yes
+H:\My Documents\programku\pos2\skin\B-Studio.skn=Yes
+H:\My Documents\programku\pos2\skin\GREEN.SKN=Yes
+H:\My Documents\programku\pos2\skin\Web-II.skn=Yes
+H:\My Documents\programku\pos2\skin\Zhelezo.skn=Yes
+H:\My Documents\programku\pos2\penjualan=Yes
+H:\My Documents\programku\pos2\bayar_hutang.rpt=Yes
+H:\My Documents\programku\pos2\bayar_piutang.rpt=Yes
+H:\My Documents\programku\pos2\detil_jual.rpt=Yes
+H:\My Documents\programku\pos2\hutang.rpt=Yes
+H:\My Documents\programku\pos2\pihutang.rpt=Yes
+H:\My Documents\programku\pos2\retur_jual.rpt=Yes
+H:\My Documents\programku\pos2\stok.rpt=Yes
+
+[Package|POSBENER|Configure Registry Files]
+Applicable=No
+
+[Package|POSBENER|Configure Remote Servers]
+Applicable=No
+
+[Package|POSBENER|Install Locations]
+H:\My Documents\programku\pos2\penjualan.exe=$(AppPath)
+D:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+D:\WINDOWS\system32\uxtheme.dll=$(WinSysPath)
+D:\WINDOWS\system32\ACTSKIN4.OCX=$(WinSysPath)
+D:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+D:\WINDOWS\system32\actrpt2.dll=$(WinSysPath)
+D:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+D:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+D:\WINDOWS\system32\mscomctl.ocx=$(WinSysPath)
+D:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+D:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+D:\WINDOWS\system32\XPControls.ocx=$(WinSysPath)
+D:\WINDOWS\system32\mscomct2.ocx=$(WinSysPath)
+D:\WINDOWS\system32\vbskpro.ocx=$(WinSysPath)
+D:\WINDOWS\system32\Crystl32.OCX=$(WinSysPath)
+D:\WINDOWS\system32\crpe32.dll=$(WinSysPath)
+D:\WINDOWS\system32\implode.dll=$(AppPath)
+D:\WINDOWS\system32\crpaig32.dll=$(WinSysPath)
+D:\WINDOWS\system32\msvcrt.dll=$(WinSysPath)
+D:\WINDOWS\system32\mfc42.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\Crxlat32.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\p2bbde.dll=$(WinSysPath)
+D:\WINDOWS\system32\P2bbnd.dll=$(WinSysPath)
+D:\WINDOWS\system32\P2BDAO.DLL=$(WinSysPath)
+D:\WINDOWS\Crystal\p2bxbse.dll=$(WinSysPath)
+D:\WINDOWS\system32\P2CTDAO.DLL=$(WinSysPath)
+D:\WINDOWS\system32\P2IRDAO.DLL=$(WinSysPath)
+D:\WINDOWS\Crystal\p2sifmx.dll=$(WinSysPath)
+D:\WINDOWS\system32\p2smon.dll=$(WinSysPath)
+D:\WINDOWS\system32\p2sodbc.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\p2sora7.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\p2ssql.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\p2ssyb10.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\p2soledb.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2ddisk.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2dmapi.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2dnotes.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2dpost.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2dvim.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2dapp.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2fcr.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2fhtml.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2fodbc.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2frec.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2frtf.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2fsepv.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2ftext.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2fwks.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2fwordw.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2fxls.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u25dts.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2l2000.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2lcom.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2ldts.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u2lsamp1.dll=$(WinSysPath)
+D:\WINDOWS\Crystal\u252000.dll=$(WinSysPath)
+\program files\seagate software\sschart\SSCSDK32.DLL=$(WinSysPath)
+D:\WINDOWS\system32\DBLIST32.OCX=$(WinSysPath)
+D:\WINDOWS\system32\button.ocx=$(WinSysPath)
+D:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+D:\WINDOWS\system32\MSCOMM32.OCX=$(WinSysPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+D:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+H:\My Documents\programku\pos2\barang.rpt=$(AppPath)
+H:\My Documents\programku\pos2\labarugi.rpt=$(AppPath)
+H:\My Documents\programku\pos2\pembelian.rpt=$(AppPath)
+H:\My Documents\programku\pos2\pemesanan.rpt=$(AppPath)
+H:\My Documents\programku\pos2\penjualan.rpt=$(AppPath)
+H:\My Documents\programku\pos2\Penjualan.mdb=$(AppPath)
+H:\My Documents\programku\pos2\retur_beli.rpt=$(AppPath)
+H:\My Documents\programku\pos2\supplier.rpt=$(AppPath)
+H:\My Documents\programku\pos2\skin\WINAQUA.SKN=$(AppPath)\skin
+H:\My Documents\programku\pos2\skin\Mac.skn=$(AppPath)\skin
+H:\My Documents\programku\pos2\skin\B-Studio.skn=$(AppPath)\skin
+H:\My Documents\programku\pos2\skin\GREEN.SKN=$(AppPath)\skin
+H:\My Documents\programku\pos2\skin\Web-II.skn=$(AppPath)\skin
+H:\My Documents\programku\pos2\skin\Zhelezo.skn=$(AppPath)\skin
+H:\My Documents\programku\pos2\penjualan=$(AppPath)
+H:\My Documents\programku\pos2\bayar_hutang.rpt=$(AppPath)
+H:\My Documents\programku\pos2\bayar_piutang.rpt=$(AppPath)
+H:\My Documents\programku\pos2\detil_jual.rpt=$(AppPath)
+H:\My Documents\programku\pos2\hutang.rpt=$(AppPath)
+H:\My Documents\programku\pos2\pihutang.rpt=$(AppPath)
+H:\My Documents\programku\pos2\retur_jual.rpt=$(AppPath)
+H:\My Documents\programku\pos2\stok.rpt=$(AppPath)
+
+[Package|POSBENER|Configure Shared Files]
+Applicable=Yes
+H:\My Documents\programku\pos2\penjualan.exe=No
+D:\WINDOWS\system32\implode.dll=No
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+H:\My Documents\programku\pos2\barang.rpt=No
+H:\My Documents\programku\pos2\labarugi.rpt=No
+H:\My Documents\programku\pos2\pembelian.rpt=No
+H:\My Documents\programku\pos2\pemesanan.rpt=No
+H:\My Documents\programku\pos2\penjualan.rpt=No
+H:\My Documents\programku\pos2\Penjualan.mdb=No
+H:\My Documents\programku\pos2\retur_beli.rpt=No
+H:\My Documents\programku\pos2\supplier.rpt=No
+H:\My Documents\programku\pos2\skin\WINAQUA.SKN=No
+H:\My Documents\programku\pos2\skin\Mac.skn=No
+H:\My Documents\programku\pos2\skin\B-Studio.skn=No
+H:\My Documents\programku\pos2\skin\GREEN.SKN=No
+H:\My Documents\programku\pos2\skin\Web-II.skn=No
+H:\My Documents\programku\pos2\skin\Zhelezo.skn=No
+H:\My Documents\programku\pos2\penjualan=No
+H:\My Documents\programku\pos2\bayar_hutang.rpt=No
+H:\My Documents\programku\pos2\bayar_piutang.rpt=No
+H:\My Documents\programku\pos2\detil_jual.rpt=No
+H:\My Documents\programku\pos2\hutang.rpt=No
+H:\My Documents\programku\pos2\pihutang.rpt=No
+H:\My Documents\programku\pos2\retur_jual.rpt=No
+H:\My Documents\programku\pos2\stok.rpt=No
+
+[Package|POSBENER|Distribution]
+Type=single
+Size=
+Title=POS
+
+[Package|POSBENER|IconGroups]
+Group0=POS
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|POSBENER|POS]
+Icon1=penjualan.exe
+Title1=POS
+StartIn1=$(AppPath)
+Key1=Icon11
+
+
+[Package|poslan3|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=H:\My Documents\programku\poslan3\Package
+
+[Package|poslan3|Configure DAO ISAMs]
+Applicable=No
+
+[Package|poslan3|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|poslan3|Files Found]
+
+[Package|poslan3|Files Released]
+SSCSDK32.DLL=
+u2LBAR.DLL=
+u25TOTAL.DLL=
+u25STORE.DLL=
+Crystal=
+
+[Package|poslan3|Missing Dependency Information]
+G:\WINDOWS\system32\button.ocx=
+G:\WINDOWS\system32\vbskpro.ocx=
+G:\WINDOWS\system32\XPControls.ocx=
+G:\WINDOWS\system32\SSubTmr6.dll=
+G:\WINDOWS\system32\actrpt2.dll=
+G:\WINDOWS\system32\ACTSKIN4.OCX=
+G:\WINDOWS\system32\uxtheme.dll=
+
+[Package|poslan3|Out-of-Date Dependency Information]
+G:\WINDOWS\system32\crpe32.dll=
+G:\WINDOWS\system32\crystl32.ocx=
+G:\WINDOWS\system32\MSCOMCT2.OCX=
+G:\WINDOWS\system32\MSCOMCTL.OCX=
+G:\WINDOWS\system32\MSSTDFMT.DLL=
+
+[Package|poslan3|Files Added]
+H:\My Documents\programku\poslan3\Penjualan.mdb=
+H:\My Documents\programku\poslan3\skin\GREEN.SKN=
+H:\My Documents\programku\poslan3\skin\B-Studio.skn=
+H:\My Documents\programku\poslan3\skin\WINAQUA.SKN=
+H:\My Documents\programku\poslan3\skin\Mac.skn=
+
+[Package|poslan3|Files Removed]
+
+[Package|poslan3|Files In Project]
+H:\My Documents\programku\poslan3\setup\Support\penjualan.exe=Yes
+G:\WINDOWS\system32\msvbvm60.dll=Yes
+G:\WINDOWS\system32\oleaut32.dll=Yes
+G:\WINDOWS\system32\olepro32.dll=Yes
+G:\WINDOWS\system32\asycfilt.dll=Yes
+G:\WINDOWS\system32\stdole2.tlb=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+G:\WINDOWS\system32\uxtheme.dll=Yes
+G:\WINDOWS\system32\ACTSKIN4.OCX=Yes
+G:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+G:\WINDOWS\system32\actrpt2.dll=Yes
+G:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+G:\WINDOWS\system32\SSubTmr6.dll=Yes
+G:\WINDOWS\system32\tabctl32.ocx=Yes
+G:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+G:\WINDOWS\system32\MSDATGRD.OCX=Yes
+G:\WINDOWS\system32\MSADODC.OCX=Yes
+G:\WINDOWS\system32\XPControls.ocx=Yes
+G:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+G:\WINDOWS\system32\vbskpro.ocx=Yes
+G:\WINDOWS\system32\crystl32.ocx=Yes
+G:\WINDOWS\system32\crpe32.dll=Yes
+G:\WINDOWS\system32\implode.dll=Yes
+G:\WINDOWS\system32\crpaig32.dll=Yes
+G:\WINDOWS\system32\msvcrt.dll=Yes
+G:\WINDOWS\system32\mfc42.dll=Yes
+G:\WINDOWS\Crystal\crxlat32.dll=Yes
+G:\WINDOWS\Crystal\p2bbde.dll=Yes
+G:\WINDOWS\system32\p2bbnd.dll=Yes
+G:\WINDOWS\system32\p2bdao.dll=Yes
+G:\WINDOWS\Crystal\p2bxbse.dll=Yes
+G:\WINDOWS\system32\p2ctdao.dll=Yes
+G:\WINDOWS\system32\p2irdao.dll=Yes
+G:\WINDOWS\Crystal\p2sifmx.dll=Yes
+G:\WINDOWS\system32\p2smon.dll=Yes
+G:\WINDOWS\system32\p2sodbc.dll=Yes
+G:\WINDOWS\Crystal\p2sora7.dll=Yes
+G:\WINDOWS\Crystal\p2ssql.dll=Yes
+G:\WINDOWS\Crystal\p2ssyb10.dll=Yes
+G:\WINDOWS\Crystal\p2soledb.dll=Yes
+G:\WINDOWS\Crystal\u2ddisk.dll=Yes
+G:\WINDOWS\Crystal\u2dmapi.dll=Yes
+G:\WINDOWS\Crystal\u2dnotes.dll=Yes
+G:\WINDOWS\Crystal\u2dpost.dll=Yes
+G:\WINDOWS\Crystal\u2dvim.dll=Yes
+G:\WINDOWS\Crystal\u2dapp.dll=Yes
+G:\WINDOWS\Crystal\u2fcr.dll=Yes
+G:\WINDOWS\Crystal\u2fhtml.dll=Yes
+G:\WINDOWS\Crystal\u2fodbc.dll=Yes
+G:\WINDOWS\Crystal\u2frec.dll=Yes
+G:\WINDOWS\Crystal\u2frtf.dll=Yes
+G:\WINDOWS\Crystal\u2fsepv.dll=Yes
+G:\WINDOWS\Crystal\u2ftext.dll=Yes
+G:\WINDOWS\Crystal\u2fwks.dll=Yes
+G:\WINDOWS\Crystal\u2fwordw.dll=Yes
+G:\WINDOWS\Crystal\u2fxls.dll=Yes
+G:\WINDOWS\Crystal\u25dts.dll=Yes
+G:\WINDOWS\Crystal\u2l2000.dll=Yes
+G:\WINDOWS\Crystal\u2lcom.dll=Yes
+G:\WINDOWS\Crystal\u2ldts.dll=Yes
+G:\WINDOWS\Crystal\u2lsamp1.dll=Yes
+G:\WINDOWS\Crystal\u252000.dll=Yes
+G:\WINDOWS\system32\DBLIST32.OCX=Yes
+G:\WINDOWS\system32\button.ocx=Yes
+G:\WINDOWS\system32\MSMASK32.OCX=Yes
+G:\WINDOWS\system32\MSCOMM32.OCX=Yes
+G:\WINDOWS\system32\MSCHRT20.OCX=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+G:\WINDOWS\system32\VB6STKIT.DLL=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+H:\My Documents\programku\poslan3\Penjualan.mdb=Yes
+H:\My Documents\programku\poslan3\skin\GREEN.SKN=Yes
+H:\My Documents\programku\poslan3\skin\B-Studio.skn=Yes
+H:\My Documents\programku\poslan3\skin\WINAQUA.SKN=Yes
+H:\My Documents\programku\poslan3\skin\Mac.skn=Yes
+
+[Package|poslan3|Configure Registry Files]
+Applicable=No
+
+[Package|poslan3|Configure Remote Servers]
+Applicable=No
+
+[Package|poslan3|Install Locations]
+H:\My Documents\programku\poslan3\setup\Support\penjualan.exe=$(AppPath)
+G:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+G:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+G:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+G:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+G:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+G:\WINDOWS\system32\uxtheme.dll=$(WinSysPath)
+G:\WINDOWS\system32\ACTSKIN4.OCX=$(WinSysPath)
+G:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+G:\WINDOWS\system32\actrpt2.dll=$(WinSysPath)
+G:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+G:\WINDOWS\system32\SSubTmr6.dll=$(WinSysPath)
+G:\WINDOWS\system32\tabctl32.ocx=$(WinSysPath)
+G:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+G:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+G:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+G:\WINDOWS\system32\XPControls.ocx=$(WinSysPath)
+G:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+G:\WINDOWS\system32\vbskpro.ocx=$(WinSysPath)
+G:\WINDOWS\system32\crystl32.ocx=$(WinSysPath)
+G:\WINDOWS\system32\crpe32.dll=$(WinSysPath)
+G:\WINDOWS\system32\implode.dll=$(AppPath)
+G:\WINDOWS\system32\crpaig32.dll=$(WinSysPath)
+G:\WINDOWS\system32\msvcrt.dll=$(WinSysPath)
+G:\WINDOWS\system32\mfc42.dll=$(WinSysPath)
+G:\WINDOWS\Crystal\crxlat32.dll=$(WinSysPath)
+G:\WINDOWS\Crystal\p2bbde.dll=$(WinSysPath)
+G:\WINDOWS\system32\p2bbnd.dll=$(WinSysPath)
+G:\WINDOWS\system32\p2bdao.dll=$(WinSysPath)
+G:\WINDOWS\Crystal\p2bxbse.dll=$(WinSysPath)
+G:\WINDOWS\system32\p2ctdao.dll=$(WinSysPath)
+G:\WINDOWS\system32\p2irdao.dll=$(WinSysPath)
+G:\WINDOWS\Crystal\p2sifmx.dll=$(WinSysPath)
+G:\WINDOWS\system32\p2smon.dll=$(WinSysPath)
+G:\WINDOWS\system32\p2sodbc.dll=$(WinSysPath)
+G:\WINDOWS\Crystal\p2sora7.dll=$(WinSysPath)
+G:\WINDOWS\Crystal\p2ssql.dll=$(WinSysPath)
+G:\WINDOWS\Crystal\p2ssyb10.dll=$(WinSysPath)
+G:\WINDOWS\Crystal\p2soledb.dll=$(WinSysPath)
+G:\WINDOWS\Crystal\u2ddisk.dll=$(WinSysPath)
+G:\WINDOWS\Crystal\u2dmapi.dll=$(WinSysPath)
+G:\WINDOWS\Crystal\u2dnotes.dll=$(WinSysPath)
+G:\WINDOWS\Crystal\u2dpost.dll=$(WinSysPath)
+G:\WINDOWS\Crystal\u2dvim.dll=$(WinSysPath)
+G:\WINDOWS\Crystal\u2dapp.dll=$(WinSysPath)
+G:\WINDOWS\Crystal\u2fcr.dll=$(WinSysPath)
+G:\WINDOWS\Crystal\u2fhtml.dll=$(WinSysPath)
+G:\WINDOWS\Crystal\u2fodbc.dll=$(WinSysPath)
+G:\WINDOWS\Crystal\u2frec.dll=$(WinSysPath)
+G:\WINDOWS\Crystal\u2frtf.dll=$(WinSysPath)
+G:\WINDOWS\Crystal\u2fsepv.dll=$(WinSysPath)
+G:\WINDOWS\Crystal\u2ftext.dll=$(WinSysPath)
+G:\WINDOWS\Crystal\u2fwks.dll=$(WinSysPath)
+G:\WINDOWS\Crystal\u2fwordw.dll=$(WinSysPath)
+G:\WINDOWS\Crystal\u2fxls.dll=$(WinSysPath)
+G:\WINDOWS\Crystal\u25dts.dll=$(AppPath)
+G:\WINDOWS\Crystal\u2l2000.dll=$(WinSysPath)
+G:\WINDOWS\Crystal\u2lcom.dll=$(WinSysPath)
+G:\WINDOWS\Crystal\u2ldts.dll=$(AppPath)
+G:\WINDOWS\Crystal\u2lsamp1.dll=$(AppPath)
+G:\WINDOWS\Crystal\u252000.dll=$(WinSysPath)
+G:\WINDOWS\system32\DBLIST32.OCX=$(WinSysPath)
+G:\WINDOWS\system32\button.ocx=$(WinSysPath)
+G:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+G:\WINDOWS\system32\MSCOMM32.OCX=$(WinSysPath)
+G:\WINDOWS\system32\MSCHRT20.OCX=$(WinSysPath)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+G:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+H:\My Documents\programku\poslan3\Penjualan.mdb=$(AppPath)
+H:\My Documents\programku\poslan3\skin\GREEN.SKN=$(AppPath)\skin
+H:\My Documents\programku\poslan3\skin\B-Studio.skn=$(AppPath)\skin
+H:\My Documents\programku\poslan3\skin\WINAQUA.SKN=$(AppPath)\skin
+H:\My Documents\programku\poslan3\skin\Mac.skn=$(AppPath)\skin
+
+[Package|poslan3|Configure Shared Files]
+Applicable=Yes
+H:\My Documents\programku\poslan3\setup\Support\penjualan.exe=No
+G:\WINDOWS\system32\implode.dll=No
+G:\WINDOWS\Crystal\u25dts.dll=No
+G:\WINDOWS\Crystal\u2ldts.dll=No
+G:\WINDOWS\Crystal\u2lsamp1.dll=No
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+H:\My Documents\programku\poslan3\Penjualan.mdb=No
+H:\My Documents\programku\poslan3\skin\GREEN.SKN=No
+H:\My Documents\programku\poslan3\skin\B-Studio.skn=No
+H:\My Documents\programku\poslan3\skin\WINAQUA.SKN=No
+H:\My Documents\programku\poslan3\skin\Mac.skn=No
+
+[Package|poslan3|Distribution]
+Type=single
+Size=
+Title=penjualan
+
+[Package|poslan3|IconGroups]
+Group0=penjualan
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|poslan3|penjualan]
+Icon1=penjualan.exe
+Title1=penjualan
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|poslan3|Package]
+PackageFolder=H:\My Documents\programku\poslan3\Package
+ProjectFolder=H:\My Documents\programku\poslan3
+ServerSideCab=
+File1=H:\My Documents\programku\poslan3\Package\setup.exe
+File2=H:\My Documents\programku\poslan3\Package\Setup.Lst
+File3=H:\My Documents\programku\poslan3\Package\penjualan.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

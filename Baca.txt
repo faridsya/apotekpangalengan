@@ -1,0 +1,2 @@
+COpy file update.exe dan folder files ke folder Toko,sehingga nanti 
+folder report2,skin dan files berada dalam satu folder yaitu folder toko

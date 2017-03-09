@@ -1,0 +1,13 @@
+TYPE=VIEW
+query=select `apotek1`.`retur_jual`.`no_penjualan` AS `no_penjualan`,sum(`apotek1`.`retur_jual`.`total_brg`) AS `total_brg`,sum(`apotek1`.`retur_jual`.`Total`) AS `total`,`apotek1`.`retur_jual`.`id_pelanggan` AS `id_pelanggan` from `apotek1`.`retur_jual` group by `apotek1`.`retur_jual`.`no_penjualan`
+md5=682d761d4d5e1576e10b11727fcaf510
+updatable=0
+algorithm=0
+definer_user=root
+definer_host=localhost
+suid=1
+with_check_option=0
+revision=1
+timestamp=2015-05-03 13:33:21
+create-version=1
+source=select `retur_jual`.`no_penjualan` AS `no_penjualan`,sum(`retur_jual`.`total_brg`) AS `total_brg`,sum(`retur_jual`.`Total`) AS `total`,`retur_jual`.`id_pelanggan` AS `id_pelanggan` from `retur_jual` group by `retur_jual`.`no_penjualan`
